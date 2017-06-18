@@ -1,0 +1,47 @@
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+
+.alignleft, .one_half, .one_third, .two_third, .two_fourth, .three_fourth, .one_fourth, .one_fifth, .two_fifth, .three_fifth, .four_fifth, .one_sixth, .five_sixth {
+    float: right;
+}
+
+.sf-menu, .signup-message, .pull-right, .pullright {
+	float: left;
+}
+
+.last {
+	clear:left;
+}
+
+.home-search-form-wrapper label {
+	text-align: right;
+}
+
+.user-profile,
+#navigation-wrapper {
+	text-align: left;
+}
+
+.widget_tdp_vehicle_search i {
+	float: none;
+	margin-left: 15px;
+}
+
+.sf-icon-cont.cont-small .sf-icon {
+	margin-right: -8px !important;
+}
+
+.vehicle-detail {
+	margin-right: 10px;
+}
+
+.widget_tdp_listings_details ul > li a:before, .widget_categories ul > li a:before, .widget_archive ul > li a:before, .widget_nav_menu ul > li a:before, .widget_meta ul > li a:before, .widget_recent_entries ul > li a:before, .widget_product_categories ul > li a:before, .kb-list li a:before, .wp-tag-cloud li a:before {
+	content: '';
+}
+
+#footer-social {
+	left: 10px;
+	right: initial;
+}

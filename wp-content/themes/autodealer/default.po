@@ -1,0 +1,2455 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HostDepot\n"
+"POT-Creation-Date: 2014-11-21 14:10-0000\n"
+"PO-Revision-Date: 2014-11-21 14:10-0000\n"
+"Last-Translator: Alessandro Tesoro <web.enovastudio@gmail.com>\n"
+"Language-Team: ThemesDepot <mythemesdepot@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_x;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:21
+msgid "Error 404: Page Not Found"
+msgstr ""
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. "
+msgstr ""
+
+#: 404.php:25
+msgid "Back To The Homepage"
+msgstr ""
+
+#: comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:17
+msgid "Responses"
+msgstr ""
+
+#: comments.php:17
+msgid "Response <span>(1)</span>"
+msgstr ""
+
+#: comments.php:17
+msgid "Responses <span>(%)</span>"
+msgstr ""
+
+#: comments.php:39
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:55
+msgid "Name (required)"
+msgstr ""
+
+#: comments.php:57
+msgid "E-Mail (required)"
+msgstr ""
+
+#: comments.php:59
+msgid "Website"
+msgstr ""
+
+#: comments.php:65
+msgid "Leave a reply"
+msgstr ""
+
+#: comments.php:67
+msgid "Submit comment"
+msgstr ""
+
+#: content-gallery.php:62 content-gallery.php:123 content-link.php:51
+#: content-link.php:101 content-quote.php:39 content-quote.php:75
+#: content-video.php:47 content-video.php:91 content.php:61 content.php:121
+msgid "By: "
+msgstr ""
+
+#: content-gallery.php:65 content-link.php:54 content-quote.php:42
+#: content-video.php:50 content.php:64
+msgid "With "
+msgstr ""
+
+#: content-gallery.php:65 content-gallery.php:126 content-link.php:54
+#: content-link.php:104 content-quote.php:42 content-quote.php:78
+#: content-video.php:50 content-video.php:94 content.php:64 content.php:124
+msgid "0 Comments"
+msgstr ""
+
+#: content-gallery.php:65 content-gallery.php:126 content-link.php:54
+#: content-link.php:104 content-quote.php:42 content-quote.php:78
+#: content-video.php:50 content-video.php:94 content.php:64 content.php:124
+msgid "1 Comment"
+msgstr ""
+
+#: content-gallery.php:68 content-link.php:57 content-quote.php:45
+#: content-video.php:53 content.php:67
+msgid "In "
+msgstr ""
+
+#: content-gallery.php:75 content-gallery.php:137 content-link.php:64
+#: content-link.php:115 content-page.php:37 content-quote.php:52
+#: content-quote.php:89 content-video.php:60 content-video.php:105
+#: content.php:74 content.php:135
+msgid "Continue Reading &raquo;"
+msgstr ""
+
+#: content-gallery.php:130 content-link.php:108 content-quote.php:82
+#: content-video.php:98 content.php:128
+msgid "On "
+msgstr ""
+
+#: framework/extensions/advanced-search.php:33
+msgid "Select A Model"
+msgstr ""
+
+#: framework/extensions/advanced-search.php:169
+msgid "Select a Manufacturer &raquo;"
+msgstr ""
+
+#: framework/extensions/advanced-search.php:215
+#: framework/extensions/search.php:234
+msgid "Select A Manufacturer:"
+msgstr ""
+
+#: framework/extensions/advanced-search.php:215
+msgid "Select A Manufacturer And Then Select A Model"
+msgstr ""
+
+#: framework/extensions/advanced-search.php:225
+#: framework/extensions/search.php:243 framework/extensions/search.php:371
+msgid "Select Model:"
+msgstr ""
+
+#: framework/extensions/advanced-search.php:225
+#: framework/extensions/advanced-search.php:228
+#: framework/extensions/search.php:246
+msgid "Select A Manufacturer First"
+msgstr ""
+
+#: framework/extensions/advanced-search.php:234
+msgid "How Many Years Old:"
+msgstr ""
+
+#: framework/extensions/advanced-search.php:242
+#: framework/extensions/search.php:264
+msgid "Vehicle Type:"
+msgstr ""
+
+#: framework/extensions/advanced-search.php:250
+#: framework/extensions/search.php:273
+msgid "Vehicle Status:"
+msgstr ""
+
+#: framework/extensions/advanced-search.php:258
+msgid "Vehicle Color:"
+msgstr ""
+
+#: framework/extensions/advanced-search.php:266
+#: templates/vehicles/vehicle-overview.php:49
+msgid "Fuel Type:"
+msgstr ""
+
+#: framework/extensions/advanced-search.php:274
+msgid "Gear Type:"
+msgstr ""
+
+#: framework/extensions/advanced-search.php:282
+msgid "Vehicle Location:"
+msgstr ""
+
+#: framework/extensions/advanced-search.php:290
+#: framework/extensions/search.php:254 framework/extensions/search.php:380
+msgid "Price Filter"
+msgstr ""
+
+#: framework/extensions/advanced-search.php:290
+#: framework/extensions/advanced-search.php:309
+#: framework/extensions/search.php:254 framework/extensions/search.php:380
+msgid "Display Vehicles Between The Selected Range"
+msgstr ""
+
+#: framework/extensions/advanced-search.php:309
+msgid "Mileage Filter"
+msgstr ""
+
+#: framework/extensions/advanced-search.php:335
+#: framework/extensions/search.php:298
+msgid "Filter Vehicles &raquo;"
+msgstr ""
+
+#: framework/extensions/options.php:1643
+msgid "Vehicle Details"
+msgstr ""
+
+#: framework/extensions/options.php:1649
+msgid "Listing Title"
+msgstr ""
+
+#: framework/extensions/options.php:1652
+msgid "Enter the title of your advert."
+msgstr ""
+
+#: framework/extensions/options.php:1663
+msgid "Listing Description"
+msgstr ""
+
+#: framework/extensions/options.php:1666
+msgid "Enter the description of your advert."
+msgstr ""
+
+#: framework/extensions/options.php:1683
+msgid "Price"
+msgstr ""
+
+#: framework/extensions/options.php:1686
+msgid "Enter the vehicle price without the currency symbol."
+msgstr ""
+
+#: framework/extensions/options.php:1696
+msgid "Discount %"
+msgstr ""
+
+#: framework/extensions/options.php:1699
+#, php-format
+msgid ""
+"Select the discount % from the initial price. Note that the discount is not "
+"applied automatically, you'll have to input the price already discounted in "
+"the Price field"
+msgstr ""
+
+#: framework/extensions/options.php:1709
+msgid "Other Details"
+msgstr ""
+
+#: framework/extensions/options.php:1715
+msgid "Vehicle Position"
+msgstr ""
+
+#: framework/extensions/options.php:1718
+msgid "Set the address of the vehicle"
+msgstr ""
+
+#: framework/extensions/options.php:1726
+msgid "Mileage"
+msgstr ""
+
+#: framework/extensions/options.php:1729
+msgid ""
+"Number of kilometers. Ex: 100000. <span class=\"admin-desc\">Symbol for "
+"kilometers is set into the Theme Options Panel</span>"
+msgstr ""
+
+#: framework/extensions/options.php:1739
+msgid "Capacity"
+msgstr ""
+
+#: framework/extensions/options.php:1742
+msgid ""
+"Motor capacity. Ex: 3200. <span class=\"admin-desc\">Symbol for motor "
+"capacity is set into the theme options panel.</span>"
+msgstr ""
+
+#: framework/extensions/options.php:1752
+msgid "Power BHP"
+msgstr ""
+
+#: framework/extensions/options.php:1755
+msgid "Motor Power in BHP"
+msgstr ""
+
+#: framework/extensions/options.php:1765
+msgid "Power KW"
+msgstr ""
+
+#: framework/extensions/options.php:1768
+msgid "Motor Power in KW"
+msgstr ""
+
+#: framework/extensions/options.php:1779
+msgid "Consumption MPG"
+msgstr ""
+
+#: framework/extensions/options.php:1782
+msgid ""
+"Consumption to 100 km, consumption symbol is set into the theme options "
+"panel."
+msgstr ""
+
+#: framework/extensions/options.php:1792
+msgid "Emission Class"
+msgstr ""
+
+#: framework/extensions/options.php:1795
+msgid "Emission Class Ex: EURO 5 (428 g/KM)"
+msgstr ""
+
+#: framework/extensions/options.php:1805
+msgid "Doors"
+msgstr ""
+
+#: framework/extensions/options.php:1808
+msgid "Enter the number of doors."
+msgstr ""
+
+#: framework/extensions/options.php:1818
+msgid "Registration Year"
+msgstr ""
+
+#: framework/extensions/options.php:1821
+msgid "Month and year of registration / production"
+msgstr ""
+
+#: framework/extensions/options.php:1828
+msgid "Vehicle Classification"
+msgstr ""
+
+#: framework/extensions/options.php:1834
+msgid "Select Vehicle Model - Manufacturer"
+msgstr ""
+
+#: framework/extensions/options.php:1846
+msgid "Vehicle Type"
+msgstr ""
+
+#: framework/extensions/options.php:1849
+msgid "Select the vehicle type here."
+msgstr ""
+
+#: framework/extensions/options.php:1860
+msgid "Vehicle Fuel Type"
+msgstr ""
+
+#: framework/extensions/options.php:1863
+msgid "Select the vehicle fuel type."
+msgstr ""
+
+#: framework/extensions/options.php:1874
+msgid "Select Vehicle Color"
+msgstr ""
+
+#: framework/extensions/options.php:1877
+msgid "Select the color of the vehicle."
+msgstr ""
+
+#: framework/extensions/options.php:1887
+msgid "Select Vehicle Status"
+msgstr ""
+
+#: framework/extensions/options.php:1890
+msgid "Select the status of the vehicle."
+msgstr ""
+
+#: framework/extensions/options.php:1900
+msgid "Select Vehicle Gearbox"
+msgstr ""
+
+#: framework/extensions/options.php:1903
+msgid "Select vehicle gearbox"
+msgstr ""
+
+#: framework/extensions/options.php:1913
+msgid "Select Vehicle Interior Features"
+msgstr ""
+
+#: framework/extensions/options.php:1916
+msgid "Select vehicle interior features"
+msgstr ""
+
+#: framework/extensions/options.php:1927
+msgid "Select Vehicle Exterior Features"
+msgstr ""
+
+#: framework/extensions/options.php:1930
+msgid "Select vehicle exterior features"
+msgstr ""
+
+#: framework/extensions/options.php:1940
+msgid "Select Vehicle Safety Features"
+msgstr ""
+
+#: framework/extensions/options.php:1943
+msgid "Select vehicle safety features"
+msgstr ""
+
+#: framework/extensions/options.php:1953
+msgid "Select Vehicle Extra Features"
+msgstr ""
+
+#: framework/extensions/options.php:1956
+msgid "Select vehicle extra features"
+msgstr ""
+
+#: framework/extensions/options.php:1966
+msgid "Select Vehicle Location"
+msgstr ""
+
+#: framework/extensions/options.php:1969
+msgid "Select vehicle location"
+msgstr ""
+
+#: framework/extensions/options.php:1979
+msgid "Select Vehicle Age"
+msgstr ""
+
+#: framework/extensions/options.php:1982
+msgid "Select vehicle age"
+msgstr ""
+
+#: framework/extensions/options.php:1992
+msgid "Vehicle Images"
+msgstr ""
+
+#: framework/extensions/options.php:1998
+msgid "Featured Image"
+msgstr ""
+
+#: framework/extensions/options.php:2007
+msgid "Additional Image 1"
+msgstr ""
+
+#: framework/extensions/options.php:2016
+msgid "Additional Image 2"
+msgstr ""
+
+#: framework/extensions/options.php:2025
+msgid "Additional Image 3"
+msgstr ""
+
+#: framework/extensions/options.php:2034
+msgid "Additional Image 4"
+msgstr ""
+
+#: framework/extensions/options.php:2043
+msgid "Additional Image 5"
+msgstr ""
+
+#: framework/extensions/search.php:42
+msgid "All Models"
+msgstr ""
+
+#: framework/extensions/search.php:197
+msgid "Any Manufacturer"
+msgstr ""
+
+#: framework/extensions/search.php:234
+msgid "Select A Manufacturer And Then Select A Model Below"
+msgstr ""
+
+#: framework/extensions/search.php:243
+msgid "Select A Manufacturer From Above First"
+msgstr ""
+
+#: framework/extensions/search.php:267 framework/extensions/search.php:276
+msgid "Any"
+msgstr ""
+
+#: framework/extensions/search.php:331
+msgid "Select a Maker &raquo;"
+msgstr ""
+
+#: framework/extensions/search.php:362
+msgid "Select A Maker:"
+msgstr ""
+
+#: framework/extensions/search.php:362
+msgid "Select A Brand And Then Select A Model Below"
+msgstr ""
+
+#: framework/extensions/search.php:371
+msgid "Select A Brand From Above First"
+msgstr ""
+
+#: framework/extensions/search.php:374
+msgid "Select A Maker First"
+msgstr ""
+
+#: framework/extensions/search.php:405
+msgid "Search Vehicles &raquo;"
+msgstr ""
+
+#: framework/extensions/tdp-shortcodes-config.php:21
+#: framework/extensions/tdp-shortcodes-config.php:46
+msgid "Left Call To Action Heading Title"
+msgstr ""
+
+#: framework/extensions/tdp-shortcodes-config.php:22
+msgid "Add your heading title for the left call to action."
+msgstr ""
+
+#: framework/extensions/tdp-shortcodes-config.php:27
+#: framework/extensions/tdp-shortcodes-config.php:52
+msgid "Left Call To Action Sub Heading Title"
+msgstr ""
+
+#: framework/extensions/tdp-shortcodes-config.php:28
+msgid "Add your sub heading title for the left call to action."
+msgstr ""
+
+#: framework/extensions/tdp-shortcodes-config.php:33
+#: framework/extensions/tdp-shortcodes-config.php:58
+msgid "Left Call To Action Button URL"
+msgstr ""
+
+#: framework/extensions/tdp-shortcodes-config.php:34
+#: framework/extensions/tdp-shortcodes-config.php:59
+msgid "Enter the url."
+msgstr ""
+
+#: framework/extensions/tdp-shortcodes-config.php:39
+#: framework/extensions/tdp-shortcodes-config.php:64
+msgid "Left Call To Action Button Label"
+msgstr ""
+
+#: framework/extensions/tdp-shortcodes-config.php:40
+#: framework/extensions/tdp-shortcodes-config.php:65
+msgid "Enter the label."
+msgstr ""
+
+#: framework/extensions/tdp-shortcodes-config.php:47
+msgid "Add your heading title for the right call to action."
+msgstr ""
+
+#: framework/extensions/tdp-shortcodes-config.php:53
+msgid "Add your sub heading title for the right call to action."
+msgstr ""
+
+#: framework/extensions/tdp-shortcodes-config.php:71
+msgid "Double Call To Action Shortcode"
+msgstr ""
+
+#: framework/extensions/tdp-shortcodes-config.php:85
+#: framework/extensions/tdp-shortcodes-config.php:196
+#: framework/extensions/tdp-shortcodes-config.php:350
+msgid "Add Background Color?"
+msgstr ""
+
+#: framework/extensions/tdp-shortcodes-config.php:94
+#: framework/extensions/tdp-shortcodes-config.php:205
+msgid "Background Color"
+msgstr ""
+
+#: framework/extensions/tdp-shortcodes-config.php:95
+#: framework/extensions/tdp-shortcodes-config.php:158
+#: framework/extensions/tdp-shortcodes-config.php:206
+#: framework/extensions/tdp-shortcodes-config.php:269
+msgid "Leave blank for default"
+msgstr ""
+
+#: framework/extensions/tdp-shortcodes-config.php:99
+#: framework/extensions/tdp-shortcodes-config.php:210
+msgid "Add Background Overlay?"
+msgstr ""
+
+#: framework/extensions/tdp-shortcodes-config.php:108
+#: framework/extensions/tdp-shortcodes-config.php:219
+msgid "Backgrond Image"
+msgstr ""
+
+#: framework/extensions/tdp-shortcodes-config.php:113
+#: framework/extensions/tdp-shortcodes-config.php:224
+msgid "Background Repeat"
+msgstr ""
+
+#: framework/extensions/tdp-shortcodes-config.php:124
+#: framework/extensions/tdp-shortcodes-config.php:235
+msgid "Background Position"
+msgstr ""
+
+#: framework/extensions/tdp-shortcodes-config.php:140
+#: framework/extensions/tdp-shortcodes-config.php:251
+msgid "Background Scroll"
+msgstr ""
+
+#: framework/extensions/tdp-shortcodes-config.php:151
+#: framework/extensions/tdp-shortcodes-config.php:262
+msgid "Border Size"
+msgstr ""
+
+#: framework/extensions/tdp-shortcodes-config.php:152
+#: framework/extensions/tdp-shortcodes-config.php:164
+#: framework/extensions/tdp-shortcodes-config.php:171
+#: framework/extensions/tdp-shortcodes-config.php:263
+#: framework/extensions/tdp-shortcodes-config.php:275
+#: framework/extensions/tdp-shortcodes-config.php:282
+msgid "In pixels"
+msgstr ""
+
+#: framework/extensions/tdp-shortcodes-config.php:157
+#: framework/extensions/tdp-shortcodes-config.php:268
+msgid "Border Color"
+msgstr ""
+
+#: framework/extensions/tdp-shortcodes-config.php:163
+#: framework/extensions/tdp-shortcodes-config.php:274
+msgid "Padding Top"
+msgstr ""
+
+#: framework/extensions/tdp-shortcodes-config.php:170
+#: framework/extensions/tdp-shortcodes-config.php:281
+msgid "Padding Bottom"
+msgstr ""
+
+#: framework/extensions/tdp-shortcodes-config.php:176
+#: framework/extensions/tdp-shortcodes-config.php:287
+msgid "Use light text colors?"
+msgstr ""
+
+#: framework/extensions/tdp-shortcodes-config.php:177
+#: framework/extensions/tdp-shortcodes-config.php:288
+msgid ""
+"Select if you wish to use light colors for specific text into the section, "
+"useful when the background is dark with text hard to read on top of it."
+msgstr ""
+
+#: framework/extensions/tdp-shortcodes-config.php:183
+#: framework/extensions/tdp-shortcodes-config.php:294
+msgid "Latest Vehicles Carousel"
+msgstr ""
+
+#: framework/extensions/tdp-shortcodes-config.php:307
+#: framework/extensions/tdp-shortcodes-config.php:397
+msgid "Content"
+msgstr ""
+
+#: framework/extensions/tdp-shortcodes-config.php:313
+msgid "Vehicle Brands Shortcode"
+msgstr ""
+
+#: framework/extensions/tdp-shortcodes-config.php:326
+msgid "How Many Vehicles?"
+msgstr ""
+
+#: framework/extensions/tdp-shortcodes-config.php:327
+msgid "Enter the amount of vehicles you wish to display."
+msgstr ""
+
+#: framework/extensions/tdp-shortcodes-config.php:332
+#: framework/extensions/tdp-shortcodes-config.php:360
+msgid "Vehicle Tabs Shortcode"
+msgstr ""
+
+#: framework/extensions/tdp-shortcodes-config.php:346
+msgid "Info"
+msgstr ""
+
+#: framework/extensions/tdp-shortcodes-config.php:373
+msgid "First Tab Title"
+msgstr ""
+
+#: framework/extensions/tdp-shortcodes-config.php:374
+#: framework/extensions/tdp-shortcodes-config.php:380
+msgid "Enter the tab title"
+msgstr ""
+
+#: framework/extensions/tdp-shortcodes-config.php:379
+msgid "Second Tab Title"
+msgstr ""
+
+#: framework/extensions/tdp-shortcodes-config.php:384
+#: framework/extensions/tdp-shortcodes-config.php:401
+msgid "Vehicle Tabbed search Shortcode"
+msgstr ""
+
+#: framework/extensions/tdp-shortcodes-extend.php:224
+msgid "Featured Vehicles"
+msgstr ""
+
+#: framework/extensions/tdp-shortcodes-extend.php:225
+#: templates/vehicles/vehicle-carousel.php:13
+msgid "Latest Vehicles On Sale"
+msgstr ""
+
+#: framework/extensions/tdp-shortcodes-extend.php:262
+#: framework/extensions/tdp-shortcodes-extend.php:311
+#: templates/vehicles/vehicle-carousel.php:52
+#: templates/vehicles/vehicle-featuredcarousel.php:68
+msgid "Read More"
+msgstr ""
+
+#: framework/extensions/tdp-shortcodes-extend.php:265
+#: framework/extensions/tdp-shortcodes-extend.php:314
+#: templates/vehicles/vehicle-grid.php:58
+#: templates/vehicles/vehicle-list.php:89
+#: templates/vehicles/vehicle-map.php:97
+msgid "Vehicle Mileage"
+msgstr ""
+
+#: framework/extensions/tdp-shortcodes-extend.php:268
+#: framework/extensions/tdp-shortcodes-extend.php:317
+#: templates/vehicles/vehicle-grid.php:61
+#: templates/vehicles/vehicle-list.php:95
+msgid "Vehicle Registration Date"
+msgstr ""
+
+#: framework/extensions/tdp-shortcodes-extend.php:357
+msgid "Browse Vehicles By Type"
+msgstr ""
+
+#: framework/extensions/theme-specific.php:20
+#: framework/functions/core-functions.php:178
+msgid "Theme Options"
+msgstr ""
+
+#: framework/extensions/theme-specific.php:169
+msgid "Contact Phone Number"
+msgstr ""
+
+#: framework/extensions/theme-specific.php:172
+msgid ""
+"Enter your phone number here. This will be displayed on the sidebar of your "
+"listings."
+msgstr ""
+
+#: framework/extensions/theme-specific.php:178
+msgid "Dealer Settings"
+msgstr ""
+
+#: framework/extensions/theme-specific.php:182
+msgid "Twitter Profile Url"
+msgstr ""
+
+#: framework/extensions/theme-specific.php:185
+msgid "Enter your twitter profile url"
+msgstr ""
+
+#: framework/extensions/theme-specific.php:189
+msgid "Facebook Profile Url"
+msgstr ""
+
+#: framework/extensions/theme-specific.php:192
+msgid "Enter your facebook profile url"
+msgstr ""
+
+#: framework/extensions/theme-specific.php:196
+msgid "LinkedIn Profile Url"
+msgstr ""
+
+#: framework/extensions/theme-specific.php:199
+msgid "Enter your linkedin profile url"
+msgstr ""
+
+#: framework/extensions/theme-specific.php:203
+msgid "Business Website"
+msgstr ""
+
+#: framework/extensions/theme-specific.php:206
+msgid "Enter the website of your business if you have one."
+msgstr ""
+
+#: framework/extensions/theme-specific.php:210
+msgid "Business Location"
+msgstr ""
+
+#: framework/extensions/theme-specific.php:213
+msgid ""
+"Enter the location where your business is. This will be displayed into the "
+"sidebar of your listings."
+msgstr ""
+
+#: framework/extensions/theme-specific.php:217
+msgid "Business Description"
+msgstr ""
+
+#: framework/extensions/theme-specific.php:220
+msgid "Enter a description for your business."
+msgstr ""
+
+#: framework/extensions/theme-specific.php:251
+msgid "New"
+msgstr ""
+
+#: framework/extensions/theme-specific.php:597
+msgid "New Vehicle Submission"
+msgstr ""
+
+#: framework/extensions/theme-specific.php:598
+msgid "AutoDealer Admin"
+msgstr ""
+
+#: framework/extensions/theme-specific.php:603
+msgid "Dear Admin,"
+msgstr ""
+
+#: framework/extensions/theme-specific.php:604
+#, php-format
+msgid "The following listing has just been submitted on your %s website."
+msgstr ""
+
+#: framework/extensions/theme-specific.php:605
+#: framework/extensions/theme-specific.php:643
+msgid "Listing Details"
+msgstr ""
+
+#: framework/extensions/theme-specific.php:606
+#: framework/extensions/theme-specific.php:609
+#: framework/extensions/theme-specific.php:644
+#: framework/extensions/theme-specific.php:647
+msgid "-----------------"
+msgstr ""
+
+#: framework/extensions/theme-specific.php:607
+#: framework/extensions/theme-specific.php:645
+msgid "Title: "
+msgstr ""
+
+#: framework/extensions/theme-specific.php:608
+msgid "Author: "
+msgstr ""
+
+#: framework/extensions/theme-specific.php:610
+#, php-format
+msgid "Review Listing: %s"
+msgstr ""
+
+#: framework/extensions/theme-specific.php:639
+#, php-format
+msgid "Your Listing Submission on %s"
+msgstr ""
+
+#: framework/extensions/theme-specific.php:640
+#, php-format
+msgid "%s Admin"
+msgstr ""
+
+#: framework/extensions/theme-specific.php:641
+#, php-format
+msgid "Hi %s,"
+msgstr ""
+
+#: framework/extensions/theme-specific.php:642
+#, php-format
+msgid ""
+"Thank you for your recent submission! Your ad listing has been submitted for "
+"review and will not appear live on our site until it has been approved. "
+"Below you will find a summary of your ad listing on the %s website."
+msgstr ""
+
+#: framework/extensions/theme-specific.php:646
+msgid "Status: "
+msgstr ""
+
+#: framework/extensions/theme-specific.php:648
+msgid ""
+"You may check the status of your listing(s) at anytime by logging into your "
+"dashboard."
+msgstr ""
+
+#: framework/extensions/theme-specific.php:650
+msgid "Regards,"
+msgstr ""
+
+#: framework/extensions/theme-specific.php:651
+#, php-format
+msgid "Your %s Team"
+msgstr ""
+
+#: framework/extensions/theme-specific.php:670
+#, php-format
+msgid "Hi %s, your listing %s has just been published at %s. Well done!"
+msgstr ""
+
+#: framework/extensions/theme-specific.php:671
+msgid "Your listing is online"
+msgstr ""
+
+#: framework/extensions/widgets/widget-dealer-profile.php:158
+msgid "Contact Dealer Now:"
+msgstr ""
+
+#: framework/extensions/widgets/widget-dealer-profile.php:176
+msgid "More About: "
+msgstr ""
+
+#: framework/extensions/widgets/widget-dealer-profile.php:183
+msgid "All Vehicles From This Dealer"
+msgstr ""
+
+#: framework/extensions/widgets/widget-dealer-profile.php:191
+msgid "Visit Dealer Website"
+msgstr ""
+
+#: framework/extensions/widgets/widget-latest-listings.php:174
+msgid "No Listings Found"
+msgstr ""
+
+#: framework/extensions/widgets/widget-listings-details.php:140
+msgid "Phone Number"
+msgstr ""
+
+#: framework/extensions/widgets/widget-listings-details.php:146
+msgid "Listed"
+msgstr ""
+
+#: framework/extensions/widgets/widget-listings-details.php:152
+msgid "Author"
+msgstr ""
+
+#: framework/extensions/widgets/widget-listings-details.php:158
+msgid "Member Since"
+msgstr ""
+
+#: framework/extensions/widgets/widget-listings-profile.php:106
+msgid ""
+"Hey visitor, looks like you are not logged in/registered yet! Click the "
+"button below if you wish to login or register."
+msgstr ""
+
+#: framework/extensions/widgets/widget-listings-profile.php:108
+msgid "Login Or Sign Up"
+msgstr ""
+
+#: framework/extensions/widgets/widget-listings-profile.php:115
+msgid "Login or Register With Facebook"
+msgstr ""
+
+#: framework/extensions/widgets/widget_vehicle_status.php:10
+msgid "A list or dropdown of vehicles status."
+msgstr ""
+
+#: framework/extensions/widgets/widget_vehicle_status.php:11
+msgid "[TDP] - Vehicles Statuses List"
+msgstr ""
+
+#: framework/extensions/widgets/widget_vehicle_status.php:17
+#: framework/extensions/widgets/widget_vehicle_year.php:17
+#: framework/extensions/widgets/widget_vehicles_color.php:17
+#: framework/extensions/widgets/widget_vehicles_exterior.php:17
+#: framework/extensions/widgets/widget_vehicles_extra.php:17
+#: framework/extensions/widgets/widget_vehicles_fuel.php:17
+#: framework/extensions/widgets/widget_vehicles_gear.php:17
+#: framework/extensions/widgets/widget_vehicles_interior.php:17
+#: framework/extensions/widgets/widget_vehicles_location.php:17
+#: framework/extensions/widgets/widget_vehicles_model.php:17
+#: framework/extensions/widgets/widget_vehicles_safety.php:17
+#: framework/extensions/widgets/widget_vehicles_types.php:17
+msgid "Categories"
+msgstr ""
+
+#: framework/extensions/widgets/widget_vehicle_status.php:29
+msgid "Select Status"
+msgstr ""
+
+#: framework/extensions/widgets/widget_vehicle_status.php:78
+#: framework/extensions/widgets/widget_vehicle_year.php:78
+#: framework/extensions/widgets/widget_vehicles_color.php:78
+#: framework/extensions/widgets/widget_vehicles_exterior.php:78
+#: framework/extensions/widgets/widget_vehicles_extra.php:78
+#: framework/extensions/widgets/widget_vehicles_fuel.php:78
+#: framework/extensions/widgets/widget_vehicles_gear.php:78
+#: framework/extensions/widgets/widget_vehicles_interior.php:78
+#: framework/extensions/widgets/widget_vehicles_location.php:78
+#: framework/extensions/widgets/widget_vehicles_model.php:78
+#: framework/extensions/widgets/widget_vehicles_safety.php:78
+#: framework/extensions/widgets/widget_vehicles_types.php:78
+msgid "Title:"
+msgstr ""
+
+#: framework/extensions/widgets/widget_vehicle_status.php:82
+#: framework/extensions/widgets/widget_vehicle_year.php:82
+#: framework/extensions/widgets/widget_vehicles_color.php:82
+#: framework/extensions/widgets/widget_vehicles_exterior.php:82
+#: framework/extensions/widgets/widget_vehicles_extra.php:82
+#: framework/extensions/widgets/widget_vehicles_fuel.php:82
+#: framework/extensions/widgets/widget_vehicles_gear.php:82
+#: framework/extensions/widgets/widget_vehicles_interior.php:82
+#: framework/extensions/widgets/widget_vehicles_location.php:82
+#: framework/extensions/widgets/widget_vehicles_model.php:82
+#: framework/extensions/widgets/widget_vehicles_safety.php:82
+#: framework/extensions/widgets/widget_vehicles_types.php:82
+msgid "Display as dropdown"
+msgstr ""
+
+#: framework/extensions/widgets/widget_vehicle_status.php:85
+#: framework/extensions/widgets/widget_vehicle_year.php:85
+#: framework/extensions/widgets/widget_vehicles_color.php:85
+#: framework/extensions/widgets/widget_vehicles_exterior.php:85
+#: framework/extensions/widgets/widget_vehicles_extra.php:85
+#: framework/extensions/widgets/widget_vehicles_fuel.php:85
+#: framework/extensions/widgets/widget_vehicles_gear.php:85
+#: framework/extensions/widgets/widget_vehicles_interior.php:85
+#: framework/extensions/widgets/widget_vehicles_location.php:85
+#: framework/extensions/widgets/widget_vehicles_model.php:85
+#: framework/extensions/widgets/widget_vehicles_safety.php:85
+#: framework/extensions/widgets/widget_vehicles_types.php:85
+msgid "Show post counts"
+msgstr ""
+
+#: framework/extensions/widgets/widget_vehicle_status.php:88
+#: framework/extensions/widgets/widget_vehicle_year.php:88
+#: framework/extensions/widgets/widget_vehicles_color.php:88
+#: framework/extensions/widgets/widget_vehicles_exterior.php:88
+#: framework/extensions/widgets/widget_vehicles_extra.php:88
+#: framework/extensions/widgets/widget_vehicles_fuel.php:88
+#: framework/extensions/widgets/widget_vehicles_gear.php:88
+#: framework/extensions/widgets/widget_vehicles_interior.php:88
+#: framework/extensions/widgets/widget_vehicles_location.php:88
+#: framework/extensions/widgets/widget_vehicles_model.php:88
+#: framework/extensions/widgets/widget_vehicles_safety.php:88
+#: framework/extensions/widgets/widget_vehicles_types.php:88
+msgid "Show hierarchy"
+msgstr ""
+
+#: framework/extensions/widgets/widget_vehicle_year.php:10
+msgid "A list or dropdown of vehicles years."
+msgstr ""
+
+#: framework/extensions/widgets/widget_vehicle_year.php:11
+msgid "[TDP] - Vehicles Years"
+msgstr ""
+
+#: framework/extensions/widgets/widget_vehicle_year.php:29
+#: framework/extensions/widgets/widget_vehicles_safety.php:29
+msgid "Select Safety Feature"
+msgstr ""
+
+#: framework/extensions/widgets/widget_vehicles_color.php:10
+msgid "A list or dropdown of vehicles colors."
+msgstr ""
+
+#: framework/extensions/widgets/widget_vehicles_color.php:11
+msgid "[TDP] - Vehicles Color"
+msgstr ""
+
+#: framework/extensions/widgets/widget_vehicles_color.php:29
+msgid "Select A Color"
+msgstr ""
+
+#: framework/extensions/widgets/widget_vehicles_exterior.php:10
+msgid "A list or dropdown of vehicles exterior."
+msgstr ""
+
+#: framework/extensions/widgets/widget_vehicles_exterior.php:11
+msgid "[TDP] - Vehicles Exteriors"
+msgstr ""
+
+#: framework/extensions/widgets/widget_vehicles_exterior.php:29
+msgid "Select Exterior"
+msgstr ""
+
+#: framework/extensions/widgets/widget_vehicles_extra.php:10
+msgid "A list or dropdown of vehicles extras."
+msgstr ""
+
+#: framework/extensions/widgets/widget_vehicles_extra.php:11
+msgid "[TDP] - Vehicles Extra Features"
+msgstr ""
+
+#: framework/extensions/widgets/widget_vehicles_extra.php:29
+msgid "Select Extra Feature"
+msgstr ""
+
+#: framework/extensions/widgets/widget_vehicles_fuel.php:10
+msgid "A list or dropdown of vehicles fuels."
+msgstr ""
+
+#: framework/extensions/widgets/widget_vehicles_fuel.php:11
+msgid "[TDP] - Vehicles Fuel"
+msgstr ""
+
+#: framework/extensions/widgets/widget_vehicles_fuel.php:29
+msgid "Select Fuel Type"
+msgstr ""
+
+#: framework/extensions/widgets/widget_vehicles_gear.php:10
+msgid "A list or dropdown of vehicles gears."
+msgstr ""
+
+#: framework/extensions/widgets/widget_vehicles_gear.php:11
+msgid "[TDP] - Vehicles Gears List"
+msgstr ""
+
+#: framework/extensions/widgets/widget_vehicles_gear.php:29
+msgid "Select GearBox"
+msgstr ""
+
+#: framework/extensions/widgets/widget_vehicles_interior.php:10
+msgid "A list or dropdown of vehicles interior."
+msgstr ""
+
+#: framework/extensions/widgets/widget_vehicles_interior.php:11
+msgid "[TDP] - Vehicles Interiors"
+msgstr ""
+
+#: framework/extensions/widgets/widget_vehicles_interior.php:29
+msgid "Select Interior"
+msgstr ""
+
+#: framework/extensions/widgets/widget_vehicles_location.php:10
+msgid "A list or dropdown of vehicles locations."
+msgstr ""
+
+#: framework/extensions/widgets/widget_vehicles_location.php:11
+msgid "[TDP] - Vehicles Locations"
+msgstr ""
+
+#: framework/extensions/widgets/widget_vehicles_location.php:29
+msgid "Select Location"
+msgstr ""
+
+#: framework/extensions/widgets/widget_vehicles_model.php:10
+msgid "A list or dropdown of vehicles models."
+msgstr ""
+
+#: framework/extensions/widgets/widget_vehicles_model.php:11
+msgid "[TDP] - Vehicles Makers"
+msgstr ""
+
+#: framework/extensions/widgets/widget_vehicles_model.php:29
+msgid "Select Model"
+msgstr ""
+
+#: framework/extensions/widgets/widget_vehicles_safety.php:10
+msgid "A list or dropdown of vehicles safety."
+msgstr ""
+
+#: framework/extensions/widgets/widget_vehicles_safety.php:11
+msgid "[TDP] - Vehicles Safety Features"
+msgstr ""
+
+#: framework/extensions/widgets/widget_vehicles_types.php:10
+msgid "A list or dropdown of vehicles types."
+msgstr ""
+
+#: framework/extensions/widgets/widget_vehicles_types.php:11
+msgid "[TDP] - Vehicles Type"
+msgstr ""
+
+#: framework/extensions/widgets/widget_vehicles_types.php:29
+msgid "Select Category"
+msgstr ""
+
+#: framework/functions/class-tgm-plugin-activation.php:164
+#: framework/functions/required-plugins.php:146
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/functions/class-tgm-plugin-activation.php:165
+#: framework/functions/required-plugins.php:147
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/functions/class-tgm-plugin-activation.php:166
+#: framework/functions/required-plugins.php:148
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework/functions/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: framework/functions/class-tgm-plugin-activation.php:178
+#: framework/functions/class-tgm-plugin-activation.php:490
+#: framework/functions/required-plugins.php:160
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/functions/class-tgm-plugin-activation.php:179
+#: framework/functions/class-tgm-plugin-activation.php:1846
+#: framework/functions/required-plugins.php:161
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/functions/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/functions/class-tgm-plugin-activation.php:517
+#: framework/functions/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/functions/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: framework/functions/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/functions/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: framework/functions/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: framework/functions/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/functions/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/functions/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: framework/functions/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: framework/functions/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: framework/functions/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/functions/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: framework/functions/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: framework/functions/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: framework/functions/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr ""
+
+#: framework/functions/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: framework/functions/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: framework/functions/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: framework/functions/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: framework/functions/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: framework/functions/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: framework/functions/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: framework/functions/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: framework/functions/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: framework/functions/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/functions/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/functions/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/functions/class-tgm-plugin-activation.php:1956
+#: framework/functions/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: framework/functions/class-tgm-plugin-activation.php:1956
+#: framework/functions/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: framework/functions/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/functions/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/functions/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: framework/functions/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: framework/functions/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/functions/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/functions/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: framework/functions/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/functions/core-functions.php:187
+msgid "Customize Layout"
+msgstr ""
+
+#: framework/functions/core-functions.php:223
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: framework/functions/core-functions.php:2531
+#: framework/plugins/tdp-frontend-connection/includes/class-wp-modal-login.php:600
+#: framework/plugins/tdp-frontend-connection/includes/class-wp-modal-login.php:604
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: framework/functions/core-functions.php:2533
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: framework/functions/core-functions.php:2533
+msgid "(Edit)"
+msgstr ""
+
+#: framework/functions/core-functions.php:2541
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: framework/functions/required-plugins.php:149
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: framework/functions/required-plugins.php:162
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: framework/functions/theme-actions.php:54
+msgid "Please select the menu location from \"Appearance -> Menu\""
+msgstr ""
+
+#: framework/functions/theme-actions.php:214
+msgid "Share this Story"
+msgstr ""
+
+#: framework/functions/theme-actions.php:218
+msgid "Facebook"
+msgstr ""
+
+#: framework/functions/theme-actions.php:221
+msgid "Twitter"
+msgstr ""
+
+#: framework/functions/theme-actions.php:224
+msgid "LinkedIn"
+msgstr ""
+
+#: framework/functions/theme-actions.php:227
+msgid "Google+"
+msgstr ""
+
+#: framework/functions/theme-actions.php:230
+msgid "E-Mail"
+msgstr ""
+
+#: framework/functions/theme-actions.php:257
+msgid "About the Author"
+msgstr ""
+
+#: framework/functions/theme-setup.php:17
+msgid "Primary Menu"
+msgstr ""
+
+#: framework/functions/theme-setup.php:18
+msgid "Footer Menu"
+msgstr ""
+
+#: framework/functions/theme-setup.php:19
+msgid "Responsive Menu"
+msgstr ""
+
+#: framework/functions/theme-setup.php:172
+msgid "This field is required."
+msgstr ""
+
+#: framework/functions/theme-setup.php:174
+msgid ""
+"You have missed some fields. Please check that every required field has been "
+"filled."
+msgstr ""
+
+#: framework/plugins/tdp-frontend-connection/hangar-frontend-connection.php:35
+msgid "ERROR: WP Modal Login class not loaded."
+msgstr ""
+
+#: framework/plugins/tdp-frontend-connection/includes/class-wp-modal-login.php:70
+msgid "Checking Credentials..."
+msgstr ""
+
+#: framework/plugins/tdp-frontend-connection/includes/class-wp-modal-login.php:116
+msgid "Wrong Username or Password!"
+msgstr ""
+
+#: framework/plugins/tdp-frontend-connection/includes/class-wp-modal-login.php:121
+msgid "Login Successful!"
+msgstr ""
+
+#: framework/plugins/tdp-frontend-connection/includes/class-wp-modal-login.php:144
+msgid "Registration complete. Please check your e-mail."
+msgstr ""
+
+#: framework/plugins/tdp-frontend-connection/includes/class-wp-modal-login.php:171
+msgid "Password Reset. Please check your email."
+msgstr ""
+
+#: framework/plugins/tdp-frontend-connection/includes/class-wp-modal-login.php:196
+msgid "Please enter a username."
+msgstr ""
+
+#: framework/plugins/tdp-frontend-connection/includes/class-wp-modal-login.php:198
+msgid ""
+"This username is invalid because it uses illegal characters. Please enter a "
+"valid username."
+msgstr ""
+
+#: framework/plugins/tdp-frontend-connection/includes/class-wp-modal-login.php:201
+msgid "This username is already registered. Please choose another one."
+msgstr ""
+
+#: framework/plugins/tdp-frontend-connection/includes/class-wp-modal-login.php:206
+msgid "Please type your e-mail address."
+msgstr ""
+
+#: framework/plugins/tdp-frontend-connection/includes/class-wp-modal-login.php:208
+msgid "The email address isn't correct."
+msgstr ""
+
+#: framework/plugins/tdp-frontend-connection/includes/class-wp-modal-login.php:211
+msgid "This email is already registered, please choose another one."
+msgstr ""
+
+#: framework/plugins/tdp-frontend-connection/includes/class-wp-modal-login.php:216
+msgid "Something was wrong with your select role."
+msgstr ""
+
+#: framework/plugins/tdp-frontend-connection/includes/class-wp-modal-login.php:228
+msgid "Couldn't register you... please contact the site administrator"
+msgstr ""
+
+#: framework/plugins/tdp-frontend-connection/includes/class-wp-modal-login.php:250
+msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
+msgstr ""
+
+#: framework/plugins/tdp-frontend-connection/includes/class-wp-modal-login.php:254
+msgid ""
+"<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr ""
+
+#: framework/plugins/tdp-frontend-connection/includes/class-wp-modal-login.php:271
+msgid "<strong>ERROR</strong>: Invalid username or e-mail."
+msgstr ""
+
+#: framework/plugins/tdp-frontend-connection/includes/class-wp-modal-login.php:308
+msgid "Password reset is not allowed for this user"
+msgstr ""
+
+#: framework/plugins/tdp-frontend-connection/includes/class-wp-modal-login.php:333
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: framework/plugins/tdp-frontend-connection/includes/class-wp-modal-login.php:335
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: framework/plugins/tdp-frontend-connection/includes/class-wp-modal-login.php:336
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: framework/plugins/tdp-frontend-connection/includes/class-wp-modal-login.php:337
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: framework/plugins/tdp-frontend-connection/includes/class-wp-modal-login.php:347
+#, php-format
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: framework/plugins/tdp-frontend-connection/includes/class-wp-modal-login.php:368
+msgid "The e-mail could not be sent."
+msgstr ""
+
+#: framework/plugins/tdp-frontend-connection/includes/class-wp-modal-login.php:368
+msgid "Possible reason: your host may have disabled the mail() function."
+msgstr ""
+
+#: framework/plugins/tdp-frontend-connection/includes/class-wp-modal-login.php:405
+msgid "Existing User?"
+msgstr ""
+
+#: framework/plugins/tdp-frontend-connection/includes/class-wp-modal-login.php:414
+#: framework/plugins/tdp-frontend-connection/includes/class-wp-modal-login.php:460
+msgid "Username"
+msgstr ""
+
+#: framework/plugins/tdp-frontend-connection/includes/class-wp-modal-login.php:420
+msgid "Password"
+msgstr ""
+
+#: framework/plugins/tdp-frontend-connection/includes/class-wp-modal-login.php:428
+msgid "Remember Me"
+msgstr ""
+
+#: framework/plugins/tdp-frontend-connection/includes/class-wp-modal-login.php:435
+msgid "Sign In Now &raquo;"
+msgstr ""
+
+#: framework/plugins/tdp-frontend-connection/includes/class-wp-modal-login.php:451
+#: framework/plugins/tdp-frontend-connection/includes/class-wp-modal-login.php:559
+msgid "Register"
+msgstr ""
+
+#: framework/plugins/tdp-frontend-connection/includes/class-wp-modal-login.php:466
+#: templates/vehicles/vehicle-contact.php:134
+msgid "Email"
+msgstr ""
+
+#: framework/plugins/tdp-frontend-connection/includes/class-wp-modal-login.php:472
+msgid "Register As"
+msgstr ""
+
+#: framework/plugins/tdp-frontend-connection/includes/class-wp-modal-login.php:474
+msgid "Private"
+msgstr ""
+
+#: framework/plugins/tdp-frontend-connection/includes/class-wp-modal-login.php:475
+#: templates/vehicles/vehicle-list.php:25
+msgid "Dealer"
+msgstr ""
+
+#: framework/plugins/tdp-frontend-connection/includes/class-wp-modal-login.php:503
+msgid "Forgotten Password?"
+msgstr ""
+
+#: framework/plugins/tdp-frontend-connection/includes/class-wp-modal-login.php:512
+msgid "Username or Email"
+msgstr ""
+
+#: framework/plugins/tdp-frontend-connection/includes/class-wp-modal-login.php:562
+msgid "Lost your password?"
+msgstr ""
+
+#: framework/plugins/tdp-frontend-connection/includes/class-wp-modal-login.php:564
+msgid "Back to Login"
+msgstr ""
+
+#: framework/plugins/tdp-frontend-connection/includes/class-wp-modal-login.php:578
+#: woocommerce/checkout/form-checkout.php:45
+msgid "Login"
+msgstr ""
+
+#: framework/plugins/tdp-frontend-connection/includes/class-wp-modal-login.php:602
+msgid "View Admin"
+msgstr ""
+
+#: framework/wordpress-importer/parsers.php:42
+#: framework/wordpress-importer/parsers.php:72
+#: framework/wordpress-importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: framework/wordpress-importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: framework/wordpress-importer/parsers.php:84
+#: framework/wordpress-importer/parsers.php:89
+#: framework/wordpress-importer/parsers.php:279
+#: framework/wordpress-importer/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: framework/wordpress-importer/wordpress-importer.php:134
+#: framework/wordpress-importer/wordpress-importer.php:143
+#: framework/wordpress-importer/wordpress-importer.php:194
+#: framework/wordpress-importer/wordpress-importer.php:198
+#: framework/wordpress-importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: framework/wordpress-importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: framework/wordpress-importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: framework/wordpress-importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: framework/wordpress-importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: framework/wordpress-importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: framework/wordpress-importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: framework/wordpress-importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: framework/wordpress-importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: framework/wordpress-importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: framework/wordpress-importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: framework/wordpress-importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: framework/wordpress-importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: framework/wordpress-importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: framework/wordpress-importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: framework/wordpress-importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: framework/wordpress-importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: framework/wordpress-importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: framework/wordpress-importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: framework/wordpress-importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: framework/wordpress-importer/wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: framework/wordpress-importer/wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: framework/wordpress-importer/wordpress-importer.php:511
+#: framework/wordpress-importer/wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: framework/wordpress-importer/wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: framework/wordpress-importer/wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: framework/wordpress-importer/wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: framework/wordpress-importer/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: framework/wordpress-importer/wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: framework/wordpress-importer/wordpress-importer.php:853
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: framework/wordpress-importer/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr ""
+
+#: framework/wordpress-importer/wordpress-importer.php:910
+msgid "Remote server did not respond"
+msgstr ""
+
+#: framework/wordpress-importer/wordpress-importer.php:916
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: framework/wordpress-importer/wordpress-importer.php:923
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: framework/wordpress-importer/wordpress-importer.php:928
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: framework/wordpress-importer/wordpress-importer.php:934
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: framework/wordpress-importer/wordpress-importer.php:1033
+msgid "Import WordPress"
+msgstr ""
+
+#: framework/wordpress-importer/wordpress-importer.php:1040
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: framework/wordpress-importer/wordpress-importer.php:1055
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: framework/wordpress-importer/wordpress-importer.php:1056
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: no-results.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: no-results.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: no-results.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: no-results.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr ""
+
+#: templates/footer/single-footer.php:31
+msgid "Submit Your Vehicle"
+msgstr ""
+
+#: templates/headers/404-header.php:43
+msgid "Page Not Found"
+msgstr ""
+
+#: templates/headers/archive-header.php:35
+msgid "Browse Vehicles"
+msgstr ""
+
+#: templates/headers/dashboard-info.php:17
+#, php-format
+msgid "You have added a total of <span>%d</span> vehicles on sale."
+msgstr ""
+
+#: templates/headers/dashboard-info.php:21
+msgid "Add New Vehicle"
+msgstr ""
+
+#: templates/headers/profile-header.php:43
+#: templates/headers/profile-header.php:51
+#, php-format
+msgid "Viewing &quot;%s&quot; Profile"
+msgstr ""
+
+#: templates/headers/profile-info.php:21
+#, php-format
+msgid ""
+"%s has been a member since %s and has a total of <span>%d</span> vehicles on "
+"sale."
+msgstr ""
+
+#: templates/headers/profile-info.php:22
+msgid "Visit Dealer Website &raquo;"
+msgstr ""
+
+#: templates/headers/profile-overview.php:26
+#, php-format
+msgid "About %s:"
+msgstr ""
+
+#: templates/headers/profile-overview.php:36
+msgid "Follow Us:"
+msgstr ""
+
+#: templates/headers/profile-overview.php:54
+msgid "Get In Touch:"
+msgstr ""
+
+#: templates/headers/search-header.php:37
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: templates/headers/top-bar.php:58
+msgid "My Garage"
+msgstr ""
+
+#: templates/headers/top-bar.php:60
+msgid "Dashboard"
+msgstr ""
+
+#: templates/headers/top-bar.php:61
+msgid "Sell Vehicle"
+msgstr ""
+
+#: templates/headers/top-bar.php:62
+msgid "Your Settings"
+msgstr ""
+
+#: templates/headers/top-bar.php:64
+msgid "View Your Profile"
+msgstr ""
+
+#: templates/headers/top-bar.php:66 templates/headers/top-bar.php:76
+msgid "Logout"
+msgstr ""
+
+#: templates/headers/top-bar.php:98
+msgid "Hello visitor, not registered yet?"
+msgstr ""
+
+#: templates/headers/top-bar.php:100
+msgid "Sign In"
+msgstr ""
+
+#: templates/headers/top-bar.php:100
+msgid "Register Now"
+msgstr ""
+
+#: templates/template-brands.php:53
+#, php-format
+msgid "%s Offers Available"
+msgstr ""
+
+#: templates/template-brands.php:55
+msgid "View Offers &raquo;"
+msgstr ""
+
+#: templates/template-edit-profile.php:65
+msgid "You need to be logged in to edit your profile."
+msgstr ""
+
+#: templates/template-edit.php:70
+msgid "Update This Listing &raquo;"
+msgstr ""
+
+#: templates/template-edit.php:77
+msgid "You are currently modifying an existing vehicle."
+msgstr ""
+
+#: templates/template-edit.php:77 templates/template-edit.php:117
+msgid "Click here to go back to the dashboard"
+msgstr ""
+
+#: templates/template-edit.php:90
+msgid "Unauthorized Access"
+msgstr ""
+
+#: templates/template-edit.php:94
+msgid "You are not allowed to edit this listing."
+msgstr ""
+
+#: templates/template-edit.php:106
+msgid "Vehicle Successfully Updated."
+msgstr ""
+
+#: templates/template-edit.php:110
+msgid "Visit Your Dashboard"
+msgstr ""
+
+#: templates/template-edit.php:117
+msgid "Visit your dashboard to edit a vehicle."
+msgstr ""
+
+#: templates/template-homepage.php:35
+msgid "Search Vehicles"
+msgstr ""
+
+#: templates/vehicles/vehicle-brands.php:14
+msgid "Our Popular Brands"
+msgstr ""
+
+#: templates/vehicles/vehicle-brands.php:14
+msgid "Browse Vehicles By Brands"
+msgstr ""
+
+#: templates/vehicles/vehicle-carousel.php:18
+#: templates/vehicles/vehicle-featuredcarousel.php:26
+msgid "Sign Up Now And Submit Your Car &raquo;"
+msgstr ""
+
+#: templates/vehicles/vehicle-contact.php:34
+msgid "You forgot to fill in your name"
+msgstr ""
+
+#: templates/vehicles/vehicle-contact.php:44
+msgid "Your forgot to fill in your email address"
+msgstr ""
+
+#: templates/vehicles/vehicle-contact.php:48
+msgid "Wrong email format"
+msgstr ""
+
+#: templates/vehicles/vehicle-contact.php:59
+msgid "You forgot to fill in your message"
+msgstr ""
+
+#: templates/vehicles/vehicle-contact.php:67
+msgid "Cheating?"
+msgstr ""
+
+#: templates/vehicles/vehicle-contact.php:78
+msgid "Message from "
+msgstr ""
+
+#: templates/vehicles/vehicle-contact.php:104
+msgid "All the fields must be completed."
+msgstr ""
+
+#: templates/vehicles/vehicle-contact.php:105
+msgid "Please check your email address is in a valid format."
+msgstr ""
+
+#: templates/vehicles/vehicle-contact.php:118
+msgid "Message Successfully Sent"
+msgstr ""
+
+#: templates/vehicles/vehicle-contact.php:129
+msgid "Name"
+msgstr ""
+
+#: templates/vehicles/vehicle-contact.php:141
+msgid "Send Message"
+msgstr ""
+
+#: templates/vehicles/vehicle-contact.php:148
+msgid "Enter Your Message"
+msgstr ""
+
+#: templates/vehicles/vehicle-extra.php:12
+msgid "Safety Features"
+msgstr ""
+
+#: templates/vehicles/vehicle-extra.php:30
+msgid "Extra Features"
+msgstr ""
+
+#: templates/vehicles/vehicle-featuredcarousel.php:21
+msgid "Featured Vehicles On Sale"
+msgstr ""
+
+#: templates/vehicles/vehicle-features.php:12
+msgid "Interior Features"
+msgstr ""
+
+#: templates/vehicles/vehicle-features.php:32
+msgid "Exterior Features"
+msgstr ""
+
+#: templates/vehicles/vehicle-filter.php:28
+msgid "Display Advanced Search Filter &raquo;"
+msgstr ""
+
+#: templates/vehicles/vehicle-filter.php:30
+#, php-format
+msgid "%d vehicles matching your criteria."
+msgstr ""
+
+#: templates/vehicles/vehicle-filter.php:37
+msgid "Sort By:"
+msgstr ""
+
+#: templates/vehicles/vehicle-filter.php:39
+msgid "Last Added"
+msgstr ""
+
+#: templates/vehicles/vehicle-filter.php:40
+msgid "Price High-Low"
+msgstr ""
+
+#: templates/vehicles/vehicle-filter.php:41
+msgid "Price Low-High"
+msgstr ""
+
+#: templates/vehicles/vehicle-filter.php:42
+msgid "Name A-Z"
+msgstr ""
+
+#: templates/vehicles/vehicle-filter.php:43
+msgid "Name Z-A"
+msgstr ""
+
+#: templates/vehicles/vehicle-filter.php:49
+msgid "Display Vehicles In A List"
+msgstr ""
+
+#: templates/vehicles/vehicle-filter.php:49
+msgid "List View"
+msgstr ""
+
+#: templates/vehicles/vehicle-filter.php:50
+msgid "Display Vehicles In A Grid"
+msgstr ""
+
+#: templates/vehicles/vehicle-filter.php:50
+msgid "Grid View"
+msgstr ""
+
+#: templates/vehicles/vehicle-filter.php:51
+msgid "Display Vehicles In A Map"
+msgstr ""
+
+#: templates/vehicles/vehicle-filter.php:51
+msgid "Location View"
+msgstr ""
+
+#: templates/vehicles/vehicle-gallery.php:146
+#: templates/vehicles/vehicle-grid.php:40
+#: templates/vehicles/vehicle-list.php:55
+msgid "Off"
+msgstr ""
+
+#: templates/vehicles/vehicle-grid.php:66
+#: templates/vehicles/vehicle-list.php:102
+msgid "View More &raquo;"
+msgstr ""
+
+#: templates/vehicles/vehicle-info.php:24
+#: templates/vehicles/vehicle-infobar.php:15
+msgid "Vehicle Description"
+msgstr ""
+
+#: templates/vehicles/vehicle-info.php:30
+msgid "Vehicle Overview"
+msgstr ""
+
+#: templates/vehicles/vehicle-info.php:43
+msgid "Exterior & Interior Features"
+msgstr ""
+
+#: templates/vehicles/vehicle-info.php:46
+msgid "Safety & Extra Features"
+msgstr ""
+
+#: templates/vehicles/vehicle-info.php:49
+msgid "Contact Dealer"
+msgstr ""
+
+#: templates/vehicles/vehicle-infobar.php:17
+msgid "View Vehicle Location"
+msgstr ""
+
+#: templates/vehicles/vehicle-infobar.php:25
+msgid "Share Vehicle"
+msgstr ""
+
+#: templates/vehicles/vehicle-infobar.php:35
+msgid "Print This Page"
+msgstr ""
+
+#: templates/vehicles/vehicle-infobar.php:42
+msgid "Add To Favorites"
+msgstr ""
+
+#: templates/vehicles/vehicle-infobar.php:60
+msgid ""
+"Only registered users can save vehicles to their favorites. Login to save "
+"vehicles to your favorites."
+msgstr ""
+
+#: templates/vehicles/vehicle-list.php:16
+msgid "Featured Advert"
+msgstr ""
+
+#: templates/vehicles/vehicle-list.php:37
+msgid "Featured Deal"
+msgstr ""
+
+#: templates/vehicles/vehicle-list.php:80
+#: templates/vehicles/vehicle-overview.php:13
+msgid "This vehicle is featured"
+msgstr ""
+
+#: templates/vehicles/vehicle-list.php:118
+msgid "On Sale By: "
+msgstr ""
+
+#: templates/vehicles/vehicle-list.php:124
+msgid "Dealer Website: "
+msgstr ""
+
+#: templates/vehicles/vehicle-list.php:130
+msgid "Listed On: "
+msgstr ""
+
+#: templates/vehicles/vehicle-map.php:35
+#: templates/vehicles/vehicle-map.php:101
+msgid "View Details &raquo;"
+msgstr ""
+
+#: templates/vehicles/vehicle-overview.php:26
+msgid "Model, Body type:"
+msgstr ""
+
+#: templates/vehicles/vehicle-overview.php:43
+msgid "Registration:"
+msgstr ""
+
+#: templates/vehicles/vehicle-overview.php:59
+msgid "Engine Power"
+msgstr ""
+
+#: templates/vehicles/vehicle-overview.php:60
+msgid "KW"
+msgstr ""
+
+#: templates/vehicles/vehicle-overview.php:60
+msgid "BHP"
+msgstr ""
+
+#: templates/vehicles/vehicle-overview.php:65
+msgid "Transmission"
+msgstr ""
+
+#: templates/vehicles/vehicle-overview.php:75
+msgid "Color:"
+msgstr ""
+
+#: templates/vehicles/vehicle-overview.php:92
+msgid "Doors:"
+msgstr ""
+
+#: templates/vehicles/vehicle-overview.php:98
+msgid "CO2-Emissions:"
+msgstr ""
+
+#: templates/vehicles/vehicle-overview.php:104
+msgid "Location:"
+msgstr ""
+
+#: templates/vehicles/vehicle-overview.php:112
+msgid "Mileage:"
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:16
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:20
+msgid "&larr; Return To Cart"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:15
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:19
+#: woocommerce/order/order-details.php:118
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:38
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:49
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:22
+#: woocommerce/checkout/form-checkout.php:27
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:38
+#: woocommerce/checkout/form-login.php:14
+msgid "Returning customer?"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:38
+msgid "Login here"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:93
+msgid "Your Order"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:17
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:20
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:25
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:29
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:19
+#: woocommerce/checkout/review-order.php:18
+#: woocommerce/order/order-details.php:20
+msgid "Product"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:20
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:21
+msgid "Totals"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:78
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:87
+msgid "Pay for order"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:29
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:55
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:19
+#: woocommerce/order/order-details.php:21
+msgid "Total"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:25
+msgid "Cart Subtotal"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:79
+msgid "Order Total"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:150
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:152
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:161
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:161
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:168
+msgid "Place order"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:177
+msgid "I have read and accept the"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:177
+msgid "terms &amp; conditions"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:20
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:24
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:26
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:30
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:32
+msgid "My Account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:38 woocommerce/checkout/thankyou.php:73
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:42
+msgid "Order:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:46
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:50
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:55
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/order/order-details.php:16
+msgid "Order Details"
+msgstr ""
+
+#: woocommerce/order/order-details.php:66
+#, php-format
+msgid "Download file%s"
+msgstr ""
+
+#: woocommerce/order/order-details.php:97
+msgid "Customer details"
+msgstr ""
+
+#: woocommerce/order/order-details.php:101
+msgid "Email:"
+msgstr ""
+
+#: woocommerce/order/order-details.php:102
+msgid "Telephone:"
+msgstr ""
+
+#: woocommerce/order/order-details.php:122
+#: woocommerce/order/order-details.php:137
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/order/order-details.php:133
+msgid "Shipping Address"
+msgstr ""

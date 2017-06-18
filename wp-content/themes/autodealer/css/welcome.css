@@ -1,0 +1,201 @@
+/* Popup and Dialog Defaults 
+ ======================================*/
+.themeActionsPupup {
+    text-align: center;
+    line-height: 1.6em;
+}
+
+.success-message, .loading-message {
+    display: none;
+}
+
+.themeActionsPupup i {
+    font-size: 100px;
+    display: block;
+    padding:10px 0px;
+    color: #A9C586;
+}
+
+.ui-dialog, .ui-datepicker
+/*, .ui-widget*/ /* can't use ui-widget because of WP color picker */ {
+    padding: 14px;
+    background: #f5f5f5;
+    border: 1px solid #fff;
+    box-shadow: 0 0 42px rgba(0,0,0,.42);
+}
+
+.ui-widget-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #666;
+    opacity: 0.4;
+}
+.ui-widget-overlay.transparent-bg { background-color: transparent }
+
+/* title bar */
+.ui-dialog .ui-dialog-titlebar {
+    padding: .4em 0 0.9em;
+    position: relative;
+}
+.ui-dialog .ui-dialog-title {
+    font-size: 18px;
+    font-weight: normal;
+    text-shadow: 1px 1px rgba(255,255,255,.8);
+}
+/*div.settings-dialog-inside,*/
+div.ui-dialog-content,
+.ui-datepicker-calendar {
+    padding: 8px 6px;
+    border: 1px solid #fff;
+    background-color: #fafafa;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+    border-radius: 2px;
+    -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, .15);
+    -moz-box-shadow: 0 0 5px rgba(0, 0, 0, .15);
+    -ms-box-shadow: 0 0 5px rgba(0, 0, 0, .15);
+    -o-box-shadow: 0 0 5px rgba(0, 0, 0, .15);
+    box-shadow: 0 0 5px rgba(0, 0, 0, .15);
+}
+/* Close button */
+.ui-widget-header a { color: #222222 }
+.ui-icon {
+    display: block;
+    text-indent: -99999px;
+    overflow: hidden;
+    background-repeat: no-repeat;
+}
+.ui-icon {
+    width: 16px;
+    height: 16px;
+}
+
+.ui-dialog .ui-dialog-titlebar-close span {
+    display: block;
+    margin: 1px;
+}
+.ui-corner-all {
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -khtml-border-radius: 3px;
+    border-radius: 3px;
+}
+.ui-widget-header a { color: #222222 }
+.ui-dialog .ui-dialog-titlebar-close {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    width: 24px;
+    margin: -16px 0 0 0;
+    padding: 3px;
+    height: 23px;
+    -webkit-background-clip: padding-box;
+    -moz-background-clip: padding-box;
+    background-clip: padding-box;
+    border-radius: 12px;
+    background: #f5f5f5;
+    border: 0px solid #f5f5f5;
+}
+.ui-state-hover .ui-icon,
+.ui-dialog-titlebar-close.ui-state-hover,
+.ui-widget-content .ui-dialog-titlebar-close.ui-state-hover,
+.ui-widget-header .ui-dialog-titlebar-close.ui-state-hover {
+    border: none;
+    background: #ddd;
+	background: rgba(0,0,0,.1);
+    font-weight: normal;
+    color: #000;
+    padding: 1px;
+    -moz-border-radius: 12px;
+    -webkit-border-radius: 12px;
+    -khtml-border-radius: 12px;
+    border-radius: 12px;
+}
+
+.animate-spin {
+  -moz-animation: spin 2s infinite linear;
+  -o-animation: spin 2s infinite linear;
+  -webkit-animation: spin 2s infinite linear;
+  animation: spin 2s infinite linear;
+  display: inline-block;
+}
+@-moz-keyframes spin {
+  0% {
+    -moz-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+
+  100% {
+    -moz-transform: rotate(359deg);
+    -o-transform: rotate(359deg);
+    -webkit-transform: rotate(359deg);
+    transform: rotate(359deg);
+  }
+}
+@-webkit-keyframes spin {
+  0% {
+    -moz-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+
+  100% {
+    -moz-transform: rotate(359deg);
+    -o-transform: rotate(359deg);
+    -webkit-transform: rotate(359deg);
+    transform: rotate(359deg);
+  }
+}
+@-o-keyframes spin {
+  0% {
+    -moz-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+
+  100% {
+    -moz-transform: rotate(359deg);
+    -o-transform: rotate(359deg);
+    -webkit-transform: rotate(359deg);
+    transform: rotate(359deg);
+  }
+}
+@-ms-keyframes spin {
+  0% {
+    -moz-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+
+  100% {
+    -moz-transform: rotate(359deg);
+    -o-transform: rotate(359deg);
+    -webkit-transform: rotate(359deg);
+    transform: rotate(359deg);
+  }
+}
+@keyframes spin {
+  0% {
+    -moz-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+
+  100% {
+    -moz-transform: rotate(359deg);
+    -o-transform: rotate(359deg);
+    -webkit-transform: rotate(359deg);
+    transform: rotate(359deg);
+  }
+}

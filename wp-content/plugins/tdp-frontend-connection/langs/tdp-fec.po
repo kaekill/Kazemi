@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Frontend Connection\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-26 11:42-0000\n"
+"PO-Revision-Date: 2015-01-26 11:42-0000\n"
+"Last-Translator: Alessandro Tesoro <web.enovastudio@gmail.com>\n"
+"Language-Team: dulabs <dev@dulabs.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;_e;gettext;gettext_noop\n"
+"X-Poedit-Basepath: ../\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-wp-modal-login.php:420
+msgid "Existing User?"
+msgstr ""
+
+#: includes/class-wp-modal-login.php:429 includes/class-wp-modal-login.php:475
+msgid "Username"
+msgstr ""
+
+#: includes/class-wp-modal-login.php:435
+msgid "Password"
+msgstr ""
+
+#: includes/class-wp-modal-login.php:443
+msgid "Remember Me"
+msgstr ""
+
+#: includes/class-wp-modal-login.php:450
+msgid "Sign In Now &raquo;"
+msgstr ""
+
+#: includes/class-wp-modal-login.php:466
+msgid "Register"
+msgstr ""
+
+#: includes/class-wp-modal-login.php:481
+msgid "Email"
+msgstr ""
+
+#: includes/class-wp-modal-login.php:487
+msgid "How much is 2 + 5?"
+msgstr ""
+
+#: includes/class-wp-modal-login.php:493
+msgid "Register As"
+msgstr ""
+
+#: includes/class-wp-modal-login.php:495
+msgid "Private"
+msgstr ""
+
+#: includes/class-wp-modal-login.php:496
+msgid "Dealer"
+msgstr ""
+
+#: includes/class-wp-modal-login.php:524
+msgid "Forgotten Password?"
+msgstr ""
+
+#: includes/class-wp-modal-login.php:533
+msgid "Username or Email"
+msgstr ""

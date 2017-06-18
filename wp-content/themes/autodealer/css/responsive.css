@@ -1,0 +1,1023 @@
+/*iPad Landscape*/
+@media screen and (max-width: 1024px), screen and (max-device-width: 1024px), screen and (max-width: 1200px)  {
+
+	.wrapper{
+		width: 960px;
+	}
+	.home-search-form-wrapper .wpas-field {
+		width: 285px !important;
+	}
+	.home-search-form-wrapper {
+		margin-bottom: 0px;
+	}
+
+}
+
+/*iPad Portrait*/
+@media handheld and (max-width: 767px), screen and (max-device-width: 750px), screen and (max-width: 960px)  {
+
+	.wrapper{
+		width: 550px;
+	}
+	#mobile-menu {
+		overflow: hidden !important;
+	}
+	#homepage-slider,  #navigation-wrapper, .brand_list ul, .stats-column, #post-data, .heading-icon, .upsells, .related, #vehicle-share, #carousel.flexslider, body.single-vehicles .signup-message, #vehicle-filter-form, .vehicle-position, .offer-desc, body.archive .vehicle-details, .vehicle-link, th.expires, th.filled, td.expires, td.filled, #auto-manager-auto-dashboard + h2, .my_account_auto_packages tr td:nth-child(4), .my_account_auto_packages tr th:nth-child(4), #auto-manager-auto-dashboard h2:first-child, #step-wrapper, body.page-template-templatestemplate-edit-profile-php #sidebar, #vehicle-infobar span, body.page-template-templatestemplate-dealer-profile-php #breadcrumb-wrapper, .featured-badge, body.page-template-templatestemplate-dealer-profile-php .vehicle-details, .featured-more, .featured-star {
+		display: none !important;
+	}
+	.one_half, .one_third, .two_third, .three_fourth, .one_fourth, .one_fifth, .two_fourth, .two_fifth, .three_fifth, .four_fifth, .one_sixth, .five_sixth, .tdp_two_third, .tdp_one_third, #tabs-adv #wpas-range_1, .custom-search-form #wpas-range_1 {
+		float: none !important;
+		margin: 0;
+		width: auto !important;
+	}
+	#logo-container, .sf-icon-box, .vehicle-detail, .type_list, #header-left-content {
+		text-align: center;
+	}
+	.pull-right, .pullright, #breadcrumb-wrapper, .vehicle-price {
+		float: none;
+	}
+	body.page-template-templatestemplate-homepage2-php .signup-message {
+		margin-top: -10px;
+		margin-bottom: 10px;
+	}
+	.latest_offers .prev, .latest_offers .next {
+		top: 80px;
+	}
+
+	.animated {
+		-webkit-animation-fill-mode: none!important;
+		-moz-animation-fill-mode: none!important;
+		-ms-animation-fill-mode: none!important;
+		-o-animation-fill-mode: none!important;
+		animation-fill-mode: none!important;
+		-webkit-animation-duration: none!important;
+		-moz-animation-duration:none!important;
+		-ms-animation-duration:none!important;
+		-o-animation-duration:none!important;
+		animation-duration: none!important;
+		visibility: visible !important;
+		display: block !important;
+	}
+	.sf-icon-box.sf-icon-box-left-icon .sf-icon-cont {
+		float: none;
+		position: static;
+		margin-top: 0px;
+		margin-right: 0px;
+	}
+	.sf-icon-box.sf-icon-box-left-icon .sf-icon-box-content-wrap {
+		margin-left: 0px;
+	}
+	
+	.heading-with-sub {
+		padding-bottom: 10px;
+	}
+	#footer-social {
+		position: static;
+		display: block;
+		right: auto;
+		margin-top:auto;
+	}
+	.stats-column:before {
+		display: none;
+	}
+	.home-search-form-wrapper {
+		margin-left: -21px;
+		margin-bottom: -99px;
+		box-shadow: none;
+		position: relative;
+		margin-top: 0px;
+		overflow: hidden;
+		width: 100%;
+	}
+	.home-search-form-wrapper .wpas-field {
+		float: none;
+		width: auto;
+		margin-right: 0px;
+	}
+	.home-search-form-wrapper .search-form-widget {
+		padding:0px;
+	}
+	.homepage-search-title {
+		background: none;
+		position: static;
+		margin:0px;
+		color: inherit;
+		padding:20px 0px;
+	}
+	#landing-form-wrapper h1 {
+		line-height: 1.3em;
+		font-size: 24px;
+	}
+	#landing-form-wrapper h2, #landing-form-wrapper h3, #landing-form-wrapper h4, #landing-form-wrapper h5, #landing-form-wrapper h6 {
+		font-size: 18px;
+	}
+	.heading-with-sub {
+		font-size: 22px;
+	}
+	.custom-search-form {
+		margin-bottom: 20px;
+	}
+	.brand_list.type_list ul {
+		display: block !important;
+		text-align: center;
+	}
+	.brand_list ul li {
+		display: block;
+		margin-left: 0px;
+		margin-right: 0px;
+	}
+	.w-actionbox.controls_aside .w-actionbox-h {
+		display: block !important;
+		vertical-align: inherit!important;
+	}
+	.w-actionbox.controls_aside .w-actionbox-controls {
+		margin-top: 10px;
+		display: block !important;
+		vertical-align: inherit !important;
+		text-align: center !important;
+		padding-left: 0px !important;
+	}
+	.w-actionbox-h {
+		text-align: center !important;
+	}
+	.w-actionbox-text p {
+		margin-bottom: 10px;
+		display: block;
+	}
+	.w-actionbox.controls_aside .w-actionbox-button:first-child {
+		margin-top: 10px !important
+	}
+	#tabs-adv {
+		margin-bottom: 20px;
+	}
+	.tabbed-vehicles-search .brand_list ul li:first-child {
+		margin-left: 0px;
+	}
+	#breadcrumb-wrapper {
+		margin: 25px 0px;
+	}
+	.counter-box-wrapper {
+		display: block !important;
+		width: inherit !important;
+		margin-bottom: 20px;
+	}
+	a.btn {
+		display: block;
+	}
+
+	.w-actionbox-button, .w-actionbox-button.g-btn, .w-actionbox.controls_aside .w-actionbox-button {
+		display: block !important;
+		margin-left: 0px !important;
+		margin-right: 0px !important;
+		margin-bottom: 10px !important;
+	}
+	.sf-icon-box {
+		margin-bottom: 30px;
+	}
+	.sf-icon-box.sf-icon-box-left-icon-alt > i {
+		float: none;
+	}
+	.sf-icon-box.sf-icon-box-left-icon-alt .sf-icon-box-content-wrap {
+		margin-left: 0px;
+	}
+	.heading-boxed {
+		display: block !important;
+		width: inherit !important;
+	}
+	.heading-boxed .heading-content {
+		width: inherit;
+	}
+	.pricing-table .plan {
+    	float: none !important;
+		width: 99% !important;
+		margin-bottom: 30px !important;
+    }
+    .products li {
+    	width: auto !important;
+    	height: auto !important;
+    }
+    .product .images {
+    	width: 275px;
+    }
+    #header-left-content h2 {
+    	margin-bottom: 0px;
+    }
+    .wp-pagenavi {
+    	margin-bottom: 30px;
+    }
+    #vehicle-toggle li {
+    	float: none;
+    	margin-bottom: 10px;
+    	margin-right: 0px;
+    }
+    #vehicle-infobar {
+    	height: auto;
+    	padding: 20px 0px; 
+    }
+    .features_table .line .left {
+    	width: auto !important;
+    }
+    .features_table .line .right {
+    	width: auto;
+    	margin-left: 10px;
+    }
+    body.single-vehicles {
+    	margin-top: 20px;
+    }
+    .single-price {
+    	margin-top: 20px;
+    }
+    #tabs-listing .vehicle-features li, .tabs-listing .vehicle-features li {
+    	width: auto;
+    	float: none;
+    }
+    #sidebar {
+    	margin-top: 20px;
+    }
+    body.single-vehicles .latest_offers .prev, body.single-vehicles .latest_offers .next {
+    	top:230px;
+    }
+    body.single-vehicles .latest_offers .prev {
+    	left: 90px;
+    }
+    body.single-vehicles .latest_offers .next {
+    	right:80px;
+    }
+
+    #adv-vehicle-search #wpas-adv_range_1, #adv-vehicle-search #wpas-adv_range_2 {
+    	width: 240px !important
+    }
+    #adv-vehicle-search #wpas-submit {
+    	margin-top: 20px;
+    }
+    body.archive .post-img, .single-desc h3 {
+    	margin-bottom: 0px;
+    	margin-top: 0px;
+    	font-size: 15px;
+    }
+    .one_third.single-thumb {
+    	width: 30.6666%!important;
+    	float: left!important;
+    	margin-right: 4%!important;
+    }
+    .two_third.last.single-desc {
+    	width: 65.3332%!important;
+    	float: left!important;
+    }
+    .vehicle-price {
+    	margin-top: 10px;
+    	font-size: 20px;
+    }
+    .single-vehicle-view {
+		margin-bottom: 20px;
+		padding-bottom: 20px;
+	}
+	.fieldset-auto_title input, .fieldset-price input {
+		width: 88% !important
+	}
+	#wp-auto_description-wrap {
+		border:none;
+	}
+	.wp_themeSkin table.mceLayout {
+		margin-left: -21px;
+	}
+	.user-description div.one_third {
+		margin-bottom: 20px !important;
+	}
+	body.page-template-templatestemplate-dealer-profile-php #page-top h1 {
+		font-size: 21px;
+		line-height: 1.3em;
+	}
+	.wp-pagenavi a, .wp-pagenavi span, .pagination a, .pagination span, .page-numbers li span, .page-numbers li a {
+		display: inline-block;
+		margin-bottom: 10px;
+	}
+	.vehicle-post .one_fourth {
+		width: 22% !important;
+		margin-right: 4% !important;
+		float: left !important;
+	}
+
+	.vehicle-post .three_fourth {
+		width: 74% !important;
+		float: left !important;
+	}
+	#landing-form-wrapper {
+		min-height: 200px;
+	}
+	#landing-search .wrapper {
+		padding:50px 0px 50px 0px !important;
+	}
+	#header-left-content {
+		text-align: left !important;
+	}
+	.home-search-form-wrapper {
+		margin-bottom: 0px;
+	}
+	#theme-wrapper {
+		padding-top: 52px;
+	}
+	.top-intro-text {
+		display: none;
+	}
+	.user-module li:first-child {
+		display: none;
+	}
+	.user-module li:last-child {
+		float: left;
+		margin-left: 0px;
+	}
+	.login-popup {
+		width: 81% !important;
+		height: 100px !important;
+		top:15%;
+		left: 53%;
+	}
+}
+
+
+
+/*iPhone Landscape*/
+@media screen and (max-width: 480px), screen and (max-device-width: 480px), screen and (max-width: 580px)  {
+
+	.wrapper{
+		width: 440px;
+	}
+	#mobile-menu {
+		overflow: hidden !important;
+	}
+	#homepage-slider,  #navigation-wrapper, .brand_list ul, .stats-column, #post-data, .heading-icon, .upsells, .related, #vehicle-share, #carousel.flexslider, body.single-vehicles .signup-message, #vehicle-filter-form, .vehicle-position, .offer-desc, body.archive .vehicle-details, .vehicle-link, th.expires, th.filled, td.expires, td.filled, #auto-manager-auto-dashboard + h2, .my_account_auto_packages tr td:nth-child(4), .my_account_auto_packages tr th:nth-child(4), #auto-manager-auto-dashboard h2:first-child, #step-wrapper, body.page-template-templatestemplate-edit-profile-php #sidebar, #vehicle-infobar span, body.page-template-templatestemplate-dealer-profile-php #breadcrumb-wrapper, .featured-badge, body.page-template-templatestemplate-dealer-profile-php .vehicle-details, .featured-more, .featured-star {
+		display: none !important;
+	}
+	.one_half, .one_third, .two_third, .three_fourth, .one_fourth, .one_fifth, .two_fourth, .two_fifth, .three_fifth, .four_fifth, .one_sixth, .five_sixth, .tdp_two_third, .tdp_one_third, #tabs-adv #wpas-range_1, .custom-search-form #wpas-range_1 {
+		float: none !important;
+		margin: 0;
+		width: auto !important;
+	}
+	#logo-container, .latest_offers, .sf-icon-box, .vehicle-detail, .type_list, #header-left-content, .vehicle-details {
+		text-align: center;
+	}
+	.signup-message, .pull-right, .pullright, #breadcrumb-wrapper, .vehicle-price {
+		float: none;
+	}
+	body.page-template-templatestemplate-homepage2-php .signup-message {
+		margin-top: -10px;
+		margin-bottom: 10px;
+	}
+	.latest_offers .prev, .latest_offers .next {
+		top: 275px;
+		font-size: 30px;
+	}
+	.blox_row_fullwidth .latest_offers .next {
+		right: 70px;
+	}
+	.blox_row_fullwidth .latest_offers .prev {
+		left: 70px;
+	}
+	.animated {
+		-webkit-animation-fill-mode: none!important;
+		-moz-animation-fill-mode: none!important;
+		-ms-animation-fill-mode: none!important;
+		-o-animation-fill-mode: none!important;
+		animation-fill-mode: none!important;
+		-webkit-animation-duration: none!important;
+		-moz-animation-duration:none!important;
+		-ms-animation-duration:none!important;
+		-o-animation-duration:none!important;
+		animation-duration: none!important;
+		visibility: visible !important;
+		display: block !important;
+	}
+	.sf-icon-box.sf-icon-box-left-icon .sf-icon-cont {
+		float: none;
+		position: static;
+		margin-top: 0px;
+		margin-right: 0px;
+	}
+	.sf-icon-box.sf-icon-box-left-icon .sf-icon-box-content-wrap {
+		margin-left: 0px;
+	}
+	.mds-tabs-wrapper dt, #tabs-listing > ul li a, .tabs-listing > ul li a {
+		float: none;
+		display: block;
+	}
+	#tabs-listing ul li, .tabs-listing ul li {
+		width: 100%;
+	}
+	a.btn.pull-right, a.btn.pullright {
+		display: block;
+	}
+	.heading-with-sub {
+		padding-bottom: 10px;
+	}
+	#footer-social {
+		position: static;
+		display: block;
+		right: auto;
+		margin-top:auto;
+	}
+	.stats-column:before {
+		display: none;
+	}
+	.home-search-form-wrapper {
+		margin-left: -21px;
+		margin-bottom: -99px;
+		box-shadow: none;
+		position: relative;
+		margin-top: 0px;
+		overflow: hidden;
+		width: 100%;
+	}
+	.home-search-form-wrapper .wpas-field {
+		float: none;
+		width: auto;
+		margin-right: 0px;
+	}
+	.home-search-form-wrapper .search-form-widget {
+		padding:0px;
+	}
+	.homepage-search-title {
+		background: none;
+		position: static;
+		margin:0px;
+		color: inherit;
+		padding:20px 0px;
+	}
+	#landing-form-wrapper h1 {
+		line-height: 1.3em;
+		font-size: 24px;
+	}
+	#landing-form-wrapper h2, #landing-form-wrapper h3, #landing-form-wrapper h4, #landing-form-wrapper h5, #landing-form-wrapper h6 {
+		font-size: 18px;
+	}
+	.heading-with-sub {
+		font-size: 22px;
+	}
+	.custom-search-form {
+		margin-bottom: 20px;
+	}
+	.brand_list.type_list ul {
+		display: block !important;
+		text-align: center;
+	}
+	.brand_list ul li {
+		display: block;
+		margin-left: 0px;
+		margin-right: 0px;
+	}
+	.w-actionbox.controls_aside .w-actionbox-h {
+		display: block !important;
+		vertical-align: inherit!important;
+	}
+	.w-actionbox.controls_aside .w-actionbox-controls {
+		margin-top: 10px;
+		display: block !important;
+		vertical-align: inherit !important;
+		text-align: center !important;
+		padding-left: 0px !important;
+	}
+	.w-actionbox-h {
+		text-align: center !important;
+	}
+	.w-actionbox-text p {
+		margin-bottom: 10px;
+		display: block;
+	}
+	.w-actionbox.controls_aside .w-actionbox-button:first-child {
+		margin-top: 10px !important
+	}
+	#tabs-adv {
+		margin-bottom: 20px;
+	}
+	.tabbed-vehicles-search .brand_list ul li:first-child {
+		margin-left: 0px;
+	}
+	#breadcrumb-wrapper {
+		margin: 25px 0px;
+	}
+	.counter-box-wrapper {
+		display: block !important;
+		width: inherit !important;
+		margin-bottom: 20px;
+	}
+	a.btn {
+		display: block;
+	}
+
+	.w-actionbox-button, .w-actionbox-button.g-btn, .w-actionbox.controls_aside .w-actionbox-button {
+		display: block !important;
+		margin-left: 0px !important;
+		margin-right: 0px !important;
+		margin-bottom: 10px !important;
+	}
+	.sf-icon-box {
+		margin-bottom: 30px;
+	}
+	.sf-icon-box.sf-icon-box-left-icon-alt > i {
+		float: none;
+	}
+	.sf-icon-box.sf-icon-box-left-icon-alt .sf-icon-box-content-wrap {
+		margin-left: 0px;
+	}
+	.heading-boxed {
+		display: block !important;
+		width: inherit !important;
+	}
+	.heading-boxed .heading-content {
+		width: inherit;
+	}
+	.pricing-table .plan {
+    	float: none !important;
+		width: 99% !important;
+		margin-bottom: 30px !important;
+    }
+    .products li {
+    	width: auto !important;
+    	height: auto !important;
+    }
+    .product .images {
+    	width: 275px;
+    }
+    #header-left-content h2 {
+    	margin-bottom: 0px;
+    }
+    .wp-pagenavi {
+    	margin-bottom: 30px;
+    }
+    #vehicle-toggle li {
+    	float: none;
+    	margin-bottom: 10px;
+    	margin-right: 0px;
+    }
+    #vehicle-infobar {
+    	height: auto;
+    	padding: 20px 0px; 
+    }
+    .features_table .line .left {
+    	width: auto !important;
+    }
+    .features_table .line .right {
+    	width: auto;
+    	margin-left: 10px;
+    }
+    body.single-vehicles {
+    	margin-top: 20px;
+    }
+    .single-price {
+    	margin-top: 20px;
+    }
+    #tabs-listing .vehicle-features li, .tabs-listing .vehicle-features li {
+    	width: auto;
+    	float: none;
+    }
+    #sidebar {
+    	margin-top: 20px;
+    }
+    body.single-vehicles .latest_offers .prev, body.single-vehicles .latest_offers .next {
+    	top:230px;
+    }
+    body.single-vehicles .latest_offers .prev {
+    	left: 90px;
+    }
+    body.single-vehicles .latest_offers .next {
+    	right:80px;
+    }
+
+    #adv-vehicle-search #wpas-adv_range_1, #adv-vehicle-search #wpas-adv_range_2 {
+    	width: 240px !important
+    }
+    #adv-vehicle-search #wpas-submit {
+    	margin-top: 20px;
+    }
+    body.archive .post-img, .single-desc h3 {
+    	margin-bottom: 0px;
+    	margin-top: 0px;
+    	font-size: 15px;
+    }
+    .one_third.single-thumb {
+    	width: 30.6666%!important;
+    	float: left!important;
+    	margin-right: 4%!important;
+    }
+    .two_third.last.single-desc {
+    	width: 65.3332%!important;
+    	float: left!important;
+    }
+    .vehicle-price {
+    	margin-top: 10px;
+    	font-size: 20px;
+    }
+    .single-vehicle-view {
+		margin-bottom: 20px;
+		padding-bottom: 20px;
+	}
+	.fieldset-auto_title input, .fieldset-price input {
+		width: 88% !important
+	}
+	#wp-auto_description-wrap {
+		border:none;
+	}
+	.wp_themeSkin table.mceLayout {
+		margin-left: -21px;
+	}
+	.user-description div.one_third {
+		margin-bottom: 20px !important;
+	}
+	body.page-template-templatestemplate-dealer-profile-php #page-top h1 {
+		font-size: 21px;
+		line-height: 1.3em;
+	}
+	.wp-pagenavi a, .wp-pagenavi span, .pagination a, .pagination span, .page-numbers li span, .page-numbers li a {
+		display: inline-block;
+		margin-bottom: 10px;
+	}
+	.vehicle-post .one_fourth {
+		width: auto !important;
+		margin-right: 0 !important;
+		float: none !important;
+	}
+
+	.vehicle-post .three_fourth {
+		width: auto !important;
+		float: none !important;
+	}
+	#landing-form-wrapper {
+		min-height: 200px;
+	}
+	#landing-search .wrapper {
+		padding:50px 0px 50px 0px !important;
+	}
+	#header-left-content {
+		text-align: left !important;
+	}
+	#theme-wrapper {
+		padding-top: 52px;
+	}
+	.top-intro-text {
+		display: none;
+	}
+	.user-module li:first-child {
+		display: none;
+	}
+	.user-module li:last-child {
+		float: left;
+		margin-left: 0px;
+	}
+	.login-popup {
+		width: 81% !important;
+		height: 100px !important;
+		top:15%;
+		left: 55%;
+	}
+	.same-form h2, #forgotten h2 {
+		font-size: 21px !important;
+		padding: 10px 0px !important;
+	}
+	div.submit {
+		padding: 10px 0px;
+	}
+	.login-popup {
+		width: 81% !important;
+		height: 100px !important;
+		top:15%;
+		left: 55%;
+	}
+}
+
+/*iPhone Portrait*/
+@media screen and (max-width: 320px), screen and (max-device-width: 320px), screen and (max-width: 450px)  {
+
+	.wrapper{
+		width: 280px;
+	}
+	#mobile-menu {
+		overflow: hidden !important;
+	}
+	#homepage-slider,  #navigation-wrapper, .brand_list ul, .stats-column, #post-data, .heading-icon, .upsells, .related, #vehicle-share, #carousel.flexslider, body.single-vehicles .signup-message, #vehicle-filter-form, .vehicle-position, .offer-desc, body.archive .vehicle-details, .vehicle-link, th.expires, th.filled, td.expires, td.filled, #auto-manager-auto-dashboard + h2, .my_account_auto_packages tr td:nth-child(4), .my_account_auto_packages tr th:nth-child(4), #auto-manager-auto-dashboard h2:first-child, #step-wrapper, body.page-template-templatestemplate-edit-profile-php #sidebar, #vehicle-infobar span, body.page-template-templatestemplate-dealer-profile-php #breadcrumb-wrapper, .featured-badge, body.page-template-templatestemplate-dealer-profile-php .vehicle-details, .featured-more, .featured-star {
+		display: none !important;
+	}
+	.one_half, .one_third, .two_third, .three_fourth, .one_fourth, .one_fifth, .two_fourth, .two_fifth, .three_fifth, .four_fifth, .one_sixth, .five_sixth, .tdp_two_third, .tdp_one_third, #tabs-adv #wpas-range_1, .custom-search-form #wpas-range_1 {
+		float: none !important;
+		margin: 0;
+		width: auto !important;
+	}
+	#logo-container, .latest_offers, .sf-icon-box, .vehicle-detail, .type_list, #header-left-content, .vehicle-details {
+		text-align: center;
+	}
+	.signup-message, .pull-right, .pullright, #breadcrumb-wrapper, .vehicle-price {
+		float: none;
+	}
+	body.page-template-templatestemplate-homepage2-php .signup-message {
+		margin-top: -10px;
+		margin-bottom: 10px;
+	}
+	.latest_offers .prev, .latest_offers .next {
+		top: 275px;
+		font-size: 30px;
+	}
+	.blox_row_fullwidth .latest_offers .next {
+		right: 70px;
+	}
+	.blox_row_fullwidth .latest_offers .prev {
+		left: 70px;
+	}
+	.animated {
+		-webkit-animation-fill-mode: none!important;
+		-moz-animation-fill-mode: none!important;
+		-ms-animation-fill-mode: none!important;
+		-o-animation-fill-mode: none!important;
+		animation-fill-mode: none!important;
+		-webkit-animation-duration: none!important;
+		-moz-animation-duration:none!important;
+		-ms-animation-duration:none!important;
+		-o-animation-duration:none!important;
+		animation-duration: none!important;
+		visibility: visible !important;
+		display: block !important;
+	}
+	.sf-icon-box.sf-icon-box-left-icon .sf-icon-cont {
+		float: none;
+		position: static;
+		margin-top: 0px;
+		margin-right: 0px;
+	}
+	.sf-icon-box.sf-icon-box-left-icon .sf-icon-box-content-wrap {
+		margin-left: 0px;
+	}
+	.mds-tabs-wrapper dt, #tabs-listing > ul li a, .tabs-listing > ul li a {
+		float: none;
+		display: block;
+	}
+	#tabs-listing ul li, .tabs-listing ul li {
+		width: 100%;
+	}
+	a.btn.pull-right, a.btn.pullright {
+		display: block;
+	}
+	.heading-with-sub {
+		padding-bottom: 10px;
+	}
+	#footer-social {
+		position: static;
+		display: block;
+		right: auto;
+		margin-top:auto;
+	}
+	.stats-column:before {
+		display: none;
+	}
+	.home-search-form-wrapper {
+		margin-left: -21px;
+		margin-bottom: -99px;
+		box-shadow: none;
+		position: relative;
+		margin-top: 0px;
+		overflow: hidden;
+		width: 100%;
+	}
+	.home-search-form-wrapper .wpas-field {
+		float: none;
+		width: auto;
+		margin-right: 0px;
+	}
+	.home-search-form-wrapper .search-form-widget {
+		padding:0px;
+	}
+	.homepage-search-title {
+		background: none;
+		position: static;
+		margin:0px;
+		color: inherit;
+		padding:20px 0px;
+	}
+	#landing-form-wrapper h1 {
+		line-height: 1.3em;
+		font-size: 24px;
+	}
+	#landing-form-wrapper h2, #landing-form-wrapper h3, #landing-form-wrapper h4, #landing-form-wrapper h5, #landing-form-wrapper h6 {
+		font-size: 18px;
+	}
+	.heading-with-sub {
+		font-size: 22px;
+	}
+	.custom-search-form {
+		margin-bottom: 20px;
+	}
+	.brand_list.type_list ul {
+		display: block !important;
+		text-align: center;
+	}
+	.brand_list ul li {
+		display: block;
+		margin-left: 0px;
+		margin-right: 0px;
+	}
+	.w-actionbox.controls_aside .w-actionbox-h {
+		display: block !important;
+		vertical-align: inherit!important;
+	}
+	.w-actionbox.controls_aside .w-actionbox-controls {
+		margin-top: 10px;
+		display: block !important;
+		vertical-align: inherit !important;
+		text-align: center !important;
+		padding-left: 0px !important;
+	}
+	.w-actionbox-h {
+		text-align: center !important;
+	}
+	.w-actionbox-text p {
+		margin-bottom: 10px;
+		display: block;
+	}
+	.w-actionbox.controls_aside .w-actionbox-button:first-child {
+		margin-top: 10px !important
+	}
+	#tabs-adv {
+		margin-bottom: 20px;
+	}
+	.tabbed-vehicles-search .brand_list ul li:first-child {
+		margin-left: 0px;
+	}
+	#breadcrumb-wrapper {
+		margin: 25px 0px;
+	}
+	.counter-box-wrapper {
+		display: block !important;
+		width: inherit !important;
+		margin-bottom: 20px;
+	}
+	a.btn {
+		display: block;
+	}
+
+	.w-actionbox-button, .w-actionbox-button.g-btn, .w-actionbox.controls_aside .w-actionbox-button {
+		display: block !important;
+		margin-left: 0px !important;
+		margin-right: 0px !important;
+		margin-bottom: 10px !important;
+	}
+	.sf-icon-box {
+		margin-bottom: 30px;
+	}
+	.sf-icon-box.sf-icon-box-left-icon-alt > i {
+		float: none;
+	}
+	.sf-icon-box.sf-icon-box-left-icon-alt .sf-icon-box-content-wrap {
+		margin-left: 0px;
+	}
+	.heading-boxed {
+		display: block !important;
+		width: inherit !important;
+	}
+	.heading-boxed .heading-content {
+		width: inherit;
+	}
+	.pricing-table .plan {
+    	float: none !important;
+		width: 99% !important;
+		margin-bottom: 30px !important;
+    }
+    .products li {
+    	width: auto !important;
+    	height: auto !important;
+    }
+    .product .images {
+    	width: 275px;
+    }
+    #header-left-content h2 {
+    	margin-bottom: 0px;
+    }
+    .wp-pagenavi {
+    	margin-bottom: 30px;
+    }
+    #vehicle-toggle li {
+    	float: none;
+    	margin-bottom: 10px;
+    	margin-right: 0px;
+    }
+    #vehicle-infobar {
+    	height: auto;
+    	padding: 20px 0px; 
+    }
+    .features_table .line .left {
+    	width: auto !important;
+    }
+    .features_table .line .right {
+    	width: auto;
+    	margin-left: 10px;
+    }
+    body.single-vehicles {
+    	margin-top: 20px;
+    }
+    .single-price {
+    	margin-top: 20px;
+    }
+    #tabs-listing .vehicle-features li, .tabs-listing .vehicle-features li {
+    	width: auto;
+    	float: none;
+    }
+    #sidebar {
+    	margin-top: 20px;
+    }
+    body.single-vehicles .latest_offers .prev, body.single-vehicles .latest_offers .next {
+    	top:230px;
+    }
+    body.single-vehicles .latest_offers .prev {
+    	left: 90px;
+    }
+    body.single-vehicles .latest_offers .next {
+    	right:80px;
+    }
+
+    #adv-vehicle-search #wpas-adv_range_1, #adv-vehicle-search #wpas-adv_range_2 {
+    	width: 240px !important
+    }
+    #adv-vehicle-search #wpas-submit {
+    	margin-top: 20px;
+    }
+    body.archive .post-img, .single-desc h3 {
+    	margin-bottom: 0px;
+    	margin-top: 0px;
+    	font-size: 15px;
+    }
+    .one_third.single-thumb {
+    	width: 30.6666%!important;
+    	float: left!important;
+    	margin-right: 4%!important;
+    }
+    .two_third.last.single-desc {
+    	width: 65.3332%!important;
+    	float: left!important;
+    }
+    .vehicle-price {
+    	margin-top: 10px;
+    	font-size: 20px;
+    }
+    .single-vehicle-view {
+		margin-bottom: 20px;
+		padding-bottom: 20px;
+	}
+	.fieldset-auto_title input, .fieldset-price input {
+		width: 88% !important
+	}
+	#wp-auto_description-wrap {
+		border:none;
+	}
+	.wp_themeSkin table.mceLayout {
+		margin-left: -21px;
+	}
+	.user-description div.one_third {
+		margin-bottom: 20px !important;
+	}
+	body.page-template-templatestemplate-dealer-profile-php #page-top h1 {
+		font-size: 21px;
+		line-height: 1.3em;
+	}
+	.wp-pagenavi a, .wp-pagenavi span, .pagination a, .pagination span, .page-numbers li span, .page-numbers li a {
+		display: inline-block;
+		margin-bottom: 10px;
+	}
+	.vehicle-post .one_fourth {
+		width: auto !important;
+		margin-right: 0 !important;
+		float: none !important;
+	}
+
+	.vehicle-post .three_fourth {
+		width: auto !important;
+		float: none !important;
+	}
+	#landing-form-wrapper {
+		min-height: 330px;
+	}
+	#landing-search .wrapper {
+		padding:100px 0px 100px 0px !important;
+	}
+	#theme-wrapper {
+		padding-top: 52px;
+	}
+	.top-intro-text {
+		display: none;
+	}
+	.user-module li:first-child {
+		display: none;
+	}
+	.user-module li:last-child {
+		float: left;
+		margin-left: 0px;
+	}
+	.login-popup {
+		width: 81% !important;
+		height: 100px !important;
+		top:15%;
+		left: 55%;
+	}
+	.same-form h2, #forgotten h2 {
+		font-size: 21px !important;
+		padding: 10px 0px !important;
+	}
+	div.submit {
+		padding: 10px 0px;
+	}
+}
