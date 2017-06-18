@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: HostDepot\n"
 "POT-Creation-Date: 2017-06-18 09:36+0200\n"
-"PO-Revision-Date: 2017-06-18 17:35+0200\n"
+"PO-Revision-Date: 2017-06-18 22:01+0200\n"
 "Last-Translator: Alessandro Tesoro <web.enovastudio@gmail.com>\n"
 "Language-Team: ThemesDepot <mythemesdepot@gmail.com>\n"
 "Language: fr_BE\n"
@@ -2410,7 +2410,7 @@ msgstr ""
 
 #: framework/extensions/advanced-search.php:33
 msgid "Select A Model"
-msgstr "Sélectionner un model"
+msgstr "Sélectionner un modèle"
 
 #: framework/extensions/advanced-search.php:169
 msgid "Select a Manufacturer &raquo;"
@@ -2422,16 +2422,16 @@ msgstr "Sélectionner une marque:"
 
 #: framework/extensions/advanced-search.php:215
 msgid "Select A Manufacturer And Then Select A Model"
-msgstr "Sélectionner une marque et puis un model"
+msgstr "Sélectionner une marque et puis un modèle"
 
 #: framework/extensions/advanced-search.php:225
 msgid "Select Model:"
-msgstr "Sélectionner un model:"
+msgstr "Sélectionner un modèle:"
 
 #: framework/extensions/advanced-search.php:225
 #: framework/extensions/advanced-search.php:228
 msgid "Select A Manufacturer First"
-msgstr "Sélectionner un model"
+msgstr "Sélectionner un modèle"
 
 #: framework/extensions/advanced-search.php:234
 msgid "How Many Years Old:"
@@ -2726,7 +2726,7 @@ msgstr ""
 
 #: framework/extensions/search.php:42
 msgid "All Models"
-msgstr "Choisissez un model"
+msgstr "Tout les modèles"
 
 #: framework/extensions/search.php:197
 msgid "Any Manufacturer"
@@ -2734,7 +2734,7 @@ msgstr "Choisissez un constructeur"
 
 #: framework/extensions/search.php:229
 msgid "Constructeur:"
-msgstr "Model"
+msgstr "Constructeur:"
 
 #: framework/extensions/search.php:229
 msgid "Select A Manufacturer And Then Select A Model Below"
@@ -2742,7 +2742,7 @@ msgstr ""
 
 #: framework/extensions/search.php:238
 msgid "Model:"
-msgstr "Sélectionner un model:"
+msgstr "Sélectionner un modèle:"
 
 #: framework/extensions/search.php:238
 msgid "Select A Manufacturer From Above First"
@@ -2750,7 +2750,7 @@ msgstr ""
 
 #: framework/extensions/search.php:241
 msgid "Constructeur"
-msgstr "Choisissez un model"
+msgstr "Tous les modèles"
 
 #: framework/extensions/search.php:249
 msgid "Filtre des prix"
@@ -2786,7 +2786,7 @@ msgstr ""
 
 #: framework/extensions/search.php:366
 msgid "Selectionner un model:"
-msgstr "Sélectionner un model:"
+msgstr "Sélectionner un modèle:"
 
 #: framework/extensions/search.php:366
 msgid "Select A Brand From Above First"
